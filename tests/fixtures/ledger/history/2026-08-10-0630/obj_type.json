@@ -1,0 +1,46 @@
+{
+  "username": "obj_type",
+  "site": "https://example.com/obj_type",
+  "engine": "travelline",
+  "source_kind": "module",
+  "granularity": "per_unit",
+  "units": {
+    "А-фрейм": {
+      "2026-08-10": {
+        "state": "free",
+        "price": 15000,
+        "units_total": 3,
+        "units_free": 1
+      },
+      "2026-08-11": {
+        "state": "free",
+        "price": 15000,
+        "units_total": 3,
+        "units_free": 3
+      },
+      "2026-08-12": {
+        "state": "free",
+        "price": 15000,
+        "units_total": 3,
+        "units_free": 2
+      },
+      "2026-08-13": {
+        "state": "busy",
+        "units_total": 3,
+        "units_free": 0
+      },
+      "2026-08-14": {
+        "state": "free",
+        "price": 16000,
+        "units_total": 3,
+        "units_free": 1
+      }
+    }
+  },
+  "checked_at": "2026-08-10T06:30:00+03:00",
+  "status": "ok",
+  "reason": "",
+  "source_urls": [
+    "https://example.com/obj_type/widget"
+  ]
+}

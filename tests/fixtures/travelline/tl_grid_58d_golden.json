@@ -1,0 +1,2019 @@
+{
+ "engine": "travelline",
+ "granularity": "per_unit",
+ "grid_until": "2026-10-17",
+ "inventory_until": "2026-08-21",
+ "reason": "",
+ "site": "https://istra-cottage.ru",
+ "source_kind": "module",
+ "source_urls": [
+  "https://ru-ibe.tlintegration.ru/ApiWebDistribution/BookingForm/hotel_info?hotels[0].code=11269&language=ru-ru",
+  "https://ru-ibe.tlintegration.ru/ApiWebDistribution/AvailabilityCalendar/room_type_availability_2?aggregate_dates=false&currency=RUB&max_nights=1&hotel=11269&shared=false&start_date=2026-08-21&end_date=2026-10-17",
+  "https://ru-ibe.tlintegration.ru/ApiWebDistribution/AvailabilityCalendar/hotel_booking_rules?start_date=2026-08-21&end_date=2026-10-17&hotel=11269&shared=false"
+ ],
+ "status": "ok",
+ "units": {
+  "Двухкомнатный дом с горячей купелью": {
+   "2026-08-21": {
+    "state": "busy"
+   },
+   "2026-08-22": {
+    "state": "busy"
+   },
+   "2026-08-23": {
+    "state": "busy"
+   },
+   "2026-08-24": {
+    "price": 23300.0,
+    "state": "free"
+   },
+   "2026-08-25": {
+    "price": 23300.0,
+    "state": "free"
+   },
+   "2026-08-26": {
+    "price": 23300.0,
+    "state": "free"
+   },
+   "2026-08-27": {
+    "price": 23300.0,
+    "state": "free"
+   },
+   "2026-08-28": {
+    "state": "unknown"
+   },
+   "2026-08-29": {
+    "state": "unknown"
+   },
+   "2026-08-30": {
+    "state": "unknown"
+   },
+   "2026-08-31": {
+    "state": "unknown"
+   },
+   "2026-09-01": {
+    "state": "unknown"
+   },
+   "2026-09-02": {
+    "state": "unknown"
+   },
+   "2026-09-03": {
+    "state": "unknown"
+   },
+   "2026-09-04": {
+    "state": "unknown"
+   },
+   "2026-09-05": {
+    "state": "unknown"
+   },
+   "2026-09-06": {
+    "state": "unknown"
+   },
+   "2026-09-07": {
+    "state": "unknown"
+   },
+   "2026-09-08": {
+    "state": "unknown"
+   },
+   "2026-09-09": {
+    "state": "unknown"
+   },
+   "2026-09-10": {
+    "state": "unknown"
+   },
+   "2026-09-11": {
+    "state": "unknown"
+   },
+   "2026-09-12": {
+    "state": "unknown"
+   },
+   "2026-09-13": {
+    "state": "unknown"
+   },
+   "2026-09-14": {
+    "state": "unknown"
+   },
+   "2026-09-15": {
+    "state": "unknown"
+   },
+   "2026-09-16": {
+    "state": "unknown"
+   },
+   "2026-09-17": {
+    "state": "unknown"
+   },
+   "2026-09-18": {
+    "state": "unknown"
+   },
+   "2026-09-19": {
+    "state": "unknown"
+   },
+   "2026-09-20": {
+    "state": "unknown"
+   },
+   "2026-09-21": {
+    "state": "unknown"
+   },
+   "2026-09-22": {
+    "state": "unknown"
+   },
+   "2026-09-23": {
+    "state": "unknown"
+   },
+   "2026-09-24": {
+    "state": "unknown"
+   },
+   "2026-09-25": {
+    "state": "unknown"
+   },
+   "2026-09-26": {
+    "state": "unknown"
+   },
+   "2026-09-27": {
+    "state": "unknown"
+   },
+   "2026-09-28": {
+    "state": "unknown"
+   },
+   "2026-09-29": {
+    "state": "unknown"
+   },
+   "2026-09-30": {
+    "state": "unknown"
+   },
+   "2026-10-01": {
+    "state": "unknown"
+   },
+   "2026-10-02": {
+    "state": "unknown"
+   },
+   "2026-10-03": {
+    "state": "unknown"
+   },
+   "2026-10-04": {
+    "state": "unknown"
+   },
+   "2026-10-05": {
+    "state": "unknown"
+   },
+   "2026-10-06": {
+    "state": "unknown"
+   },
+   "2026-10-07": {
+    "state": "unknown"
+   },
+   "2026-10-08": {
+    "state": "unknown"
+   },
+   "2026-10-09": {
+    "state": "unknown"
+   },
+   "2026-10-10": {
+    "state": "unknown"
+   },
+   "2026-10-11": {
+    "state": "unknown"
+   },
+   "2026-10-12": {
+    "state": "unknown"
+   },
+   "2026-10-13": {
+    "state": "unknown"
+   },
+   "2026-10-14": {
+    "state": "unknown"
+   },
+   "2026-10-15": {
+    "state": "unknown"
+   },
+   "2026-10-16": {
+    "state": "unknown"
+   },
+   "2026-10-17": {
+    "state": "unknown"
+   }
+  },
+  "Дом на воде с панорамным окном и бочкой фурако": {
+   "2026-08-21": {
+    "price": 31700.0,
+    "state": "free"
+   },
+   "2026-08-22": {
+    "price": 47200.0,
+    "state": "free"
+   },
+   "2026-08-23": {
+    "price": 25900.0,
+    "state": "free"
+   },
+   "2026-08-24": {
+    "price": 24000.0,
+    "state": "free"
+   },
+   "2026-08-25": {
+    "price": 24000.0,
+    "state": "free"
+   },
+   "2026-08-26": {
+    "price": 24000.0,
+    "state": "free"
+   },
+   "2026-08-27": {
+    "price": 24000.0,
+    "state": "free"
+   },
+   "2026-08-28": {
+    "state": "unknown"
+   },
+   "2026-08-29": {
+    "state": "unknown"
+   },
+   "2026-08-30": {
+    "state": "unknown"
+   },
+   "2026-08-31": {
+    "state": "unknown"
+   },
+   "2026-09-01": {
+    "state": "unknown"
+   },
+   "2026-09-02": {
+    "state": "unknown"
+   },
+   "2026-09-03": {
+    "state": "unknown"
+   },
+   "2026-09-04": {
+    "state": "unknown"
+   },
+   "2026-09-05": {
+    "state": "unknown"
+   },
+   "2026-09-06": {
+    "state": "unknown"
+   },
+   "2026-09-07": {
+    "state": "unknown"
+   },
+   "2026-09-08": {
+    "state": "unknown"
+   },
+   "2026-09-09": {
+    "state": "unknown"
+   },
+   "2026-09-10": {
+    "state": "unknown"
+   },
+   "2026-09-11": {
+    "state": "unknown"
+   },
+   "2026-09-12": {
+    "state": "unknown"
+   },
+   "2026-09-13": {
+    "state": "unknown"
+   },
+   "2026-09-14": {
+    "state": "unknown"
+   },
+   "2026-09-15": {
+    "state": "unknown"
+   },
+   "2026-09-16": {
+    "state": "unknown"
+   },
+   "2026-09-17": {
+    "state": "unknown"
+   },
+   "2026-09-18": {
+    "state": "unknown"
+   },
+   "2026-09-19": {
+    "state": "unknown"
+   },
+   "2026-09-20": {
+    "state": "unknown"
+   },
+   "2026-09-21": {
+    "state": "unknown"
+   },
+   "2026-09-22": {
+    "state": "unknown"
+   },
+   "2026-09-23": {
+    "state": "unknown"
+   },
+   "2026-09-24": {
+    "state": "unknown"
+   },
+   "2026-09-25": {
+    "state": "unknown"
+   },
+   "2026-09-26": {
+    "state": "unknown"
+   },
+   "2026-09-27": {
+    "state": "unknown"
+   },
+   "2026-09-28": {
+    "state": "unknown"
+   },
+   "2026-09-29": {
+    "state": "unknown"
+   },
+   "2026-09-30": {
+    "state": "unknown"
+   },
+   "2026-10-01": {
+    "state": "unknown"
+   },
+   "2026-10-02": {
+    "state": "unknown"
+   },
+   "2026-10-03": {
+    "state": "unknown"
+   },
+   "2026-10-04": {
+    "state": "unknown"
+   },
+   "2026-10-05": {
+    "state": "unknown"
+   },
+   "2026-10-06": {
+    "state": "unknown"
+   },
+   "2026-10-07": {
+    "state": "unknown"
+   },
+   "2026-10-08": {
+    "state": "unknown"
+   },
+   "2026-10-09": {
+    "state": "unknown"
+   },
+   "2026-10-10": {
+    "state": "unknown"
+   },
+   "2026-10-11": {
+    "state": "unknown"
+   },
+   "2026-10-12": {
+    "state": "unknown"
+   },
+   "2026-10-13": {
+    "state": "unknown"
+   },
+   "2026-10-14": {
+    "state": "unknown"
+   },
+   "2026-10-15": {
+    "state": "unknown"
+   },
+   "2026-10-16": {
+    "state": "unknown"
+   },
+   "2026-10-17": {
+    "state": "unknown"
+   }
+  },
+  "Дом на воде с панорамным окном и сауной": {
+   "2026-08-21": {
+    "price": 34400.0,
+    "state": "free"
+   },
+   "2026-08-22": {
+    "price": 55400.0,
+    "state": "free"
+   },
+   "2026-08-23": {
+    "price": 30200.0,
+    "state": "free"
+   },
+   "2026-08-24": {
+    "state": "busy"
+   },
+   "2026-08-25": {
+    "price": 28100.0,
+    "state": "free"
+   },
+   "2026-08-26": {
+    "price": 28100.0,
+    "state": "free"
+   },
+   "2026-08-27": {
+    "state": "busy"
+   },
+   "2026-08-28": {
+    "state": "unknown"
+   },
+   "2026-08-29": {
+    "state": "unknown"
+   },
+   "2026-08-30": {
+    "state": "unknown"
+   },
+   "2026-08-31": {
+    "state": "unknown"
+   },
+   "2026-09-01": {
+    "state": "unknown"
+   },
+   "2026-09-02": {
+    "state": "unknown"
+   },
+   "2026-09-03": {
+    "state": "unknown"
+   },
+   "2026-09-04": {
+    "state": "unknown"
+   },
+   "2026-09-05": {
+    "state": "unknown"
+   },
+   "2026-09-06": {
+    "state": "unknown"
+   },
+   "2026-09-07": {
+    "state": "unknown"
+   },
+   "2026-09-08": {
+    "state": "unknown"
+   },
+   "2026-09-09": {
+    "state": "unknown"
+   },
+   "2026-09-10": {
+    "state": "unknown"
+   },
+   "2026-09-11": {
+    "state": "unknown"
+   },
+   "2026-09-12": {
+    "state": "unknown"
+   },
+   "2026-09-13": {
+    "state": "unknown"
+   },
+   "2026-09-14": {
+    "state": "unknown"
+   },
+   "2026-09-15": {
+    "state": "unknown"
+   },
+   "2026-09-16": {
+    "state": "unknown"
+   },
+   "2026-09-17": {
+    "state": "unknown"
+   },
+   "2026-09-18": {
+    "state": "unknown"
+   },
+   "2026-09-19": {
+    "state": "unknown"
+   },
+   "2026-09-20": {
+    "state": "unknown"
+   },
+   "2026-09-21": {
+    "state": "unknown"
+   },
+   "2026-09-22": {
+    "state": "unknown"
+   },
+   "2026-09-23": {
+    "state": "unknown"
+   },
+   "2026-09-24": {
+    "state": "unknown"
+   },
+   "2026-09-25": {
+    "state": "unknown"
+   },
+   "2026-09-26": {
+    "state": "unknown"
+   },
+   "2026-09-27": {
+    "state": "unknown"
+   },
+   "2026-09-28": {
+    "state": "unknown"
+   },
+   "2026-09-29": {
+    "state": "unknown"
+   },
+   "2026-09-30": {
+    "state": "unknown"
+   },
+   "2026-10-01": {
+    "state": "unknown"
+   },
+   "2026-10-02": {
+    "state": "unknown"
+   },
+   "2026-10-03": {
+    "state": "unknown"
+   },
+   "2026-10-04": {
+    "state": "unknown"
+   },
+   "2026-10-05": {
+    "state": "unknown"
+   },
+   "2026-10-06": {
+    "state": "unknown"
+   },
+   "2026-10-07": {
+    "state": "unknown"
+   },
+   "2026-10-08": {
+    "state": "unknown"
+   },
+   "2026-10-09": {
+    "state": "unknown"
+   },
+   "2026-10-10": {
+    "state": "unknown"
+   },
+   "2026-10-11": {
+    "state": "unknown"
+   },
+   "2026-10-12": {
+    "state": "unknown"
+   },
+   "2026-10-13": {
+    "state": "unknown"
+   },
+   "2026-10-14": {
+    "state": "unknown"
+   },
+   "2026-10-15": {
+    "state": "unknown"
+   },
+   "2026-10-16": {
+    "state": "unknown"
+   },
+   "2026-10-17": {
+    "state": "unknown"
+   }
+  },
+  "Дом-студия на воде с сауной": {
+   "2026-08-21": {
+    "price": 31700.0,
+    "state": "free"
+   },
+   "2026-08-22": {
+    "price": 47200.0,
+    "state": "free"
+   },
+   "2026-08-23": {
+    "state": "busy"
+   },
+   "2026-08-24": {
+    "price": 24000.0,
+    "state": "free"
+   },
+   "2026-08-25": {
+    "price": 24000.0,
+    "state": "free"
+   },
+   "2026-08-26": {
+    "price": 24000.0,
+    "state": "free"
+   },
+   "2026-08-27": {
+    "price": 24000.0,
+    "state": "free"
+   },
+   "2026-08-28": {
+    "state": "unknown"
+   },
+   "2026-08-29": {
+    "state": "unknown"
+   },
+   "2026-08-30": {
+    "state": "unknown"
+   },
+   "2026-08-31": {
+    "state": "unknown"
+   },
+   "2026-09-01": {
+    "state": "unknown"
+   },
+   "2026-09-02": {
+    "state": "unknown"
+   },
+   "2026-09-03": {
+    "state": "unknown"
+   },
+   "2026-09-04": {
+    "state": "unknown"
+   },
+   "2026-09-05": {
+    "state": "unknown"
+   },
+   "2026-09-06": {
+    "state": "unknown"
+   },
+   "2026-09-07": {
+    "state": "unknown"
+   },
+   "2026-09-08": {
+    "state": "unknown"
+   },
+   "2026-09-09": {
+    "state": "unknown"
+   },
+   "2026-09-10": {
+    "state": "unknown"
+   },
+   "2026-09-11": {
+    "state": "unknown"
+   },
+   "2026-09-12": {
+    "state": "unknown"
+   },
+   "2026-09-13": {
+    "state": "unknown"
+   },
+   "2026-09-14": {
+    "state": "unknown"
+   },
+   "2026-09-15": {
+    "state": "unknown"
+   },
+   "2026-09-16": {
+    "state": "unknown"
+   },
+   "2026-09-17": {
+    "state": "unknown"
+   },
+   "2026-09-18": {
+    "state": "unknown"
+   },
+   "2026-09-19": {
+    "state": "unknown"
+   },
+   "2026-09-20": {
+    "state": "unknown"
+   },
+   "2026-09-21": {
+    "state": "unknown"
+   },
+   "2026-09-22": {
+    "state": "unknown"
+   },
+   "2026-09-23": {
+    "state": "unknown"
+   },
+   "2026-09-24": {
+    "state": "unknown"
+   },
+   "2026-09-25": {
+    "state": "unknown"
+   },
+   "2026-09-26": {
+    "state": "unknown"
+   },
+   "2026-09-27": {
+    "state": "unknown"
+   },
+   "2026-09-28": {
+    "state": "unknown"
+   },
+   "2026-09-29": {
+    "state": "unknown"
+   },
+   "2026-09-30": {
+    "state": "unknown"
+   },
+   "2026-10-01": {
+    "state": "unknown"
+   },
+   "2026-10-02": {
+    "state": "unknown"
+   },
+   "2026-10-03": {
+    "state": "unknown"
+   },
+   "2026-10-04": {
+    "state": "unknown"
+   },
+   "2026-10-05": {
+    "state": "unknown"
+   },
+   "2026-10-06": {
+    "state": "unknown"
+   },
+   "2026-10-07": {
+    "state": "unknown"
+   },
+   "2026-10-08": {
+    "state": "unknown"
+   },
+   "2026-10-09": {
+    "state": "unknown"
+   },
+   "2026-10-10": {
+    "state": "unknown"
+   },
+   "2026-10-11": {
+    "state": "unknown"
+   },
+   "2026-10-12": {
+    "state": "unknown"
+   },
+   "2026-10-13": {
+    "state": "unknown"
+   },
+   "2026-10-14": {
+    "state": "unknown"
+   },
+   "2026-10-15": {
+    "state": "unknown"
+   },
+   "2026-10-16": {
+    "state": "unknown"
+   },
+   "2026-10-17": {
+    "state": "unknown"
+   }
+  },
+  "Дом-студия с бочкой фурако": {
+   "2026-08-21": {
+    "price": 18200.0,
+    "state": "free"
+   },
+   "2026-08-22": {
+    "price": 26900.0,
+    "state": "free"
+   },
+   "2026-08-23": {
+    "price": 15700.0,
+    "state": "free"
+   },
+   "2026-08-24": {
+    "price": 14500.0,
+    "state": "free"
+   },
+   "2026-08-25": {
+    "price": 14500.0,
+    "state": "free"
+   },
+   "2026-08-26": {
+    "price": 14500.0,
+    "state": "free"
+   },
+   "2026-08-27": {
+    "price": 14500.0,
+    "state": "free"
+   },
+   "2026-08-28": {
+    "state": "unknown"
+   },
+   "2026-08-29": {
+    "state": "unknown"
+   },
+   "2026-08-30": {
+    "state": "unknown"
+   },
+   "2026-08-31": {
+    "state": "unknown"
+   },
+   "2026-09-01": {
+    "state": "unknown"
+   },
+   "2026-09-02": {
+    "state": "unknown"
+   },
+   "2026-09-03": {
+    "state": "unknown"
+   },
+   "2026-09-04": {
+    "state": "unknown"
+   },
+   "2026-09-05": {
+    "state": "unknown"
+   },
+   "2026-09-06": {
+    "state": "unknown"
+   },
+   "2026-09-07": {
+    "state": "unknown"
+   },
+   "2026-09-08": {
+    "state": "unknown"
+   },
+   "2026-09-09": {
+    "state": "unknown"
+   },
+   "2026-09-10": {
+    "state": "unknown"
+   },
+   "2026-09-11": {
+    "state": "unknown"
+   },
+   "2026-09-12": {
+    "state": "unknown"
+   },
+   "2026-09-13": {
+    "state": "unknown"
+   },
+   "2026-09-14": {
+    "state": "unknown"
+   },
+   "2026-09-15": {
+    "state": "unknown"
+   },
+   "2026-09-16": {
+    "state": "unknown"
+   },
+   "2026-09-17": {
+    "state": "unknown"
+   },
+   "2026-09-18": {
+    "state": "unknown"
+   },
+   "2026-09-19": {
+    "state": "unknown"
+   },
+   "2026-09-20": {
+    "state": "unknown"
+   },
+   "2026-09-21": {
+    "state": "unknown"
+   },
+   "2026-09-22": {
+    "state": "unknown"
+   },
+   "2026-09-23": {
+    "state": "unknown"
+   },
+   "2026-09-24": {
+    "state": "unknown"
+   },
+   "2026-09-25": {
+    "state": "unknown"
+   },
+   "2026-09-26": {
+    "state": "unknown"
+   },
+   "2026-09-27": {
+    "state": "unknown"
+   },
+   "2026-09-28": {
+    "state": "unknown"
+   },
+   "2026-09-29": {
+    "state": "unknown"
+   },
+   "2026-09-30": {
+    "state": "unknown"
+   },
+   "2026-10-01": {
+    "state": "unknown"
+   },
+   "2026-10-02": {
+    "state": "unknown"
+   },
+   "2026-10-03": {
+    "state": "unknown"
+   },
+   "2026-10-04": {
+    "state": "unknown"
+   },
+   "2026-10-05": {
+    "state": "unknown"
+   },
+   "2026-10-06": {
+    "state": "unknown"
+   },
+   "2026-10-07": {
+    "state": "unknown"
+   },
+   "2026-10-08": {
+    "state": "unknown"
+   },
+   "2026-10-09": {
+    "state": "unknown"
+   },
+   "2026-10-10": {
+    "state": "unknown"
+   },
+   "2026-10-11": {
+    "state": "unknown"
+   },
+   "2026-10-12": {
+    "state": "unknown"
+   },
+   "2026-10-13": {
+    "state": "unknown"
+   },
+   "2026-10-14": {
+    "state": "unknown"
+   },
+   "2026-10-15": {
+    "state": "unknown"
+   },
+   "2026-10-16": {
+    "state": "unknown"
+   },
+   "2026-10-17": {
+    "state": "unknown"
+   }
+  },
+  "Кантри дом двухкомнатный": {
+   "2026-08-21": {
+    "price": 26000.0,
+    "state": "free"
+   },
+   "2026-08-22": {
+    "price": 37600.0,
+    "state": "free"
+   },
+   "2026-08-23": {
+    "price": 24700.0,
+    "state": "free"
+   },
+   "2026-08-24": {
+    "price": 23500.0,
+    "state": "free"
+   },
+   "2026-08-25": {
+    "price": 23500.0,
+    "state": "free"
+   },
+   "2026-08-26": {
+    "price": 23500.0,
+    "state": "free"
+   },
+   "2026-08-27": {
+    "price": 23500.0,
+    "state": "free"
+   },
+   "2026-08-28": {
+    "state": "unknown"
+   },
+   "2026-08-29": {
+    "state": "unknown"
+   },
+   "2026-08-30": {
+    "state": "unknown"
+   },
+   "2026-08-31": {
+    "state": "unknown"
+   },
+   "2026-09-01": {
+    "state": "unknown"
+   },
+   "2026-09-02": {
+    "state": "unknown"
+   },
+   "2026-09-03": {
+    "state": "unknown"
+   },
+   "2026-09-04": {
+    "state": "unknown"
+   },
+   "2026-09-05": {
+    "state": "unknown"
+   },
+   "2026-09-06": {
+    "state": "unknown"
+   },
+   "2026-09-07": {
+    "state": "unknown"
+   },
+   "2026-09-08": {
+    "state": "unknown"
+   },
+   "2026-09-09": {
+    "state": "unknown"
+   },
+   "2026-09-10": {
+    "state": "unknown"
+   },
+   "2026-09-11": {
+    "state": "unknown"
+   },
+   "2026-09-12": {
+    "state": "unknown"
+   },
+   "2026-09-13": {
+    "state": "unknown"
+   },
+   "2026-09-14": {
+    "state": "unknown"
+   },
+   "2026-09-15": {
+    "state": "unknown"
+   },
+   "2026-09-16": {
+    "state": "unknown"
+   },
+   "2026-09-17": {
+    "state": "unknown"
+   },
+   "2026-09-18": {
+    "state": "unknown"
+   },
+   "2026-09-19": {
+    "state": "unknown"
+   },
+   "2026-09-20": {
+    "state": "unknown"
+   },
+   "2026-09-21": {
+    "state": "unknown"
+   },
+   "2026-09-22": {
+    "state": "unknown"
+   },
+   "2026-09-23": {
+    "state": "unknown"
+   },
+   "2026-09-24": {
+    "state": "unknown"
+   },
+   "2026-09-25": {
+    "state": "unknown"
+   },
+   "2026-09-26": {
+    "state": "unknown"
+   },
+   "2026-09-27": {
+    "state": "unknown"
+   },
+   "2026-09-28": {
+    "state": "unknown"
+   },
+   "2026-09-29": {
+    "state": "unknown"
+   },
+   "2026-09-30": {
+    "state": "unknown"
+   },
+   "2026-10-01": {
+    "state": "unknown"
+   },
+   "2026-10-02": {
+    "state": "unknown"
+   },
+   "2026-10-03": {
+    "state": "unknown"
+   },
+   "2026-10-04": {
+    "state": "unknown"
+   },
+   "2026-10-05": {
+    "state": "unknown"
+   },
+   "2026-10-06": {
+    "state": "unknown"
+   },
+   "2026-10-07": {
+    "state": "unknown"
+   },
+   "2026-10-08": {
+    "state": "unknown"
+   },
+   "2026-10-09": {
+    "state": "unknown"
+   },
+   "2026-10-10": {
+    "state": "unknown"
+   },
+   "2026-10-11": {
+    "state": "unknown"
+   },
+   "2026-10-12": {
+    "state": "unknown"
+   },
+   "2026-10-13": {
+    "state": "unknown"
+   },
+   "2026-10-14": {
+    "state": "unknown"
+   },
+   "2026-10-15": {
+    "state": "unknown"
+   },
+   "2026-10-16": {
+    "state": "unknown"
+   },
+   "2026-10-17": {
+    "state": "unknown"
+   }
+  },
+  "Кантри дом трехкомнатный": {
+   "2026-08-21": {
+    "price": 27100.0,
+    "state": "free"
+   },
+   "2026-08-22": {
+    "price": 40900.0,
+    "state": "free"
+   },
+   "2026-08-23": {
+    "price": 23400.0,
+    "state": "free"
+   },
+   "2026-08-24": {
+    "price": 24600.0,
+    "state": "free"
+   },
+   "2026-08-25": {
+    "price": 24600.0,
+    "state": "free"
+   },
+   "2026-08-26": {
+    "price": 24600.0,
+    "state": "free"
+   },
+   "2026-08-27": {
+    "price": 24600.0,
+    "state": "free"
+   },
+   "2026-08-28": {
+    "state": "unknown"
+   },
+   "2026-08-29": {
+    "state": "unknown"
+   },
+   "2026-08-30": {
+    "state": "unknown"
+   },
+   "2026-08-31": {
+    "state": "unknown"
+   },
+   "2026-09-01": {
+    "state": "unknown"
+   },
+   "2026-09-02": {
+    "state": "unknown"
+   },
+   "2026-09-03": {
+    "state": "unknown"
+   },
+   "2026-09-04": {
+    "state": "unknown"
+   },
+   "2026-09-05": {
+    "state": "unknown"
+   },
+   "2026-09-06": {
+    "state": "unknown"
+   },
+   "2026-09-07": {
+    "state": "unknown"
+   },
+   "2026-09-08": {
+    "state": "unknown"
+   },
+   "2026-09-09": {
+    "state": "unknown"
+   },
+   "2026-09-10": {
+    "state": "unknown"
+   },
+   "2026-09-11": {
+    "state": "unknown"
+   },
+   "2026-09-12": {
+    "state": "unknown"
+   },
+   "2026-09-13": {
+    "state": "unknown"
+   },
+   "2026-09-14": {
+    "state": "unknown"
+   },
+   "2026-09-15": {
+    "state": "unknown"
+   },
+   "2026-09-16": {
+    "state": "unknown"
+   },
+   "2026-09-17": {
+    "state": "unknown"
+   },
+   "2026-09-18": {
+    "state": "unknown"
+   },
+   "2026-09-19": {
+    "state": "unknown"
+   },
+   "2026-09-20": {
+    "state": "unknown"
+   },
+   "2026-09-21": {
+    "state": "unknown"
+   },
+   "2026-09-22": {
+    "state": "unknown"
+   },
+   "2026-09-23": {
+    "state": "unknown"
+   },
+   "2026-09-24": {
+    "state": "unknown"
+   },
+   "2026-09-25": {
+    "state": "unknown"
+   },
+   "2026-09-26": {
+    "state": "unknown"
+   },
+   "2026-09-27": {
+    "state": "unknown"
+   },
+   "2026-09-28": {
+    "state": "unknown"
+   },
+   "2026-09-29": {
+    "state": "unknown"
+   },
+   "2026-09-30": {
+    "state": "unknown"
+   },
+   "2026-10-01": {
+    "state": "unknown"
+   },
+   "2026-10-02": {
+    "state": "unknown"
+   },
+   "2026-10-03": {
+    "state": "unknown"
+   },
+   "2026-10-04": {
+    "state": "unknown"
+   },
+   "2026-10-05": {
+    "state": "unknown"
+   },
+   "2026-10-06": {
+    "state": "unknown"
+   },
+   "2026-10-07": {
+    "state": "unknown"
+   },
+   "2026-10-08": {
+    "state": "unknown"
+   },
+   "2026-10-09": {
+    "state": "unknown"
+   },
+   "2026-10-10": {
+    "state": "unknown"
+   },
+   "2026-10-11": {
+    "state": "unknown"
+   },
+   "2026-10-12": {
+    "state": "unknown"
+   },
+   "2026-10-13": {
+    "state": "unknown"
+   },
+   "2026-10-14": {
+    "state": "unknown"
+   },
+   "2026-10-15": {
+    "state": "unknown"
+   },
+   "2026-10-16": {
+    "state": "unknown"
+   },
+   "2026-10-17": {
+    "state": "unknown"
+   }
+  },
+  "Кантри с закрытой верандой и камином": {
+   "2026-08-21": {
+    "price": 27100.0,
+    "state": "free"
+   },
+   "2026-08-22": {
+    "price": 40900.0,
+    "state": "free"
+   },
+   "2026-08-23": {
+    "price": 14100.0,
+    "state": "free"
+   },
+   "2026-08-24": {
+    "price": 15400.0,
+    "state": "free"
+   },
+   "2026-08-25": {
+    "price": 15400.0,
+    "state": "free"
+   },
+   "2026-08-26": {
+    "price": 15400.0,
+    "state": "free"
+   },
+   "2026-08-27": {
+    "price": 15400.0,
+    "state": "free"
+   },
+   "2026-08-28": {
+    "state": "unknown"
+   },
+   "2026-08-29": {
+    "state": "unknown"
+   },
+   "2026-08-30": {
+    "state": "unknown"
+   },
+   "2026-08-31": {
+    "state": "unknown"
+   },
+   "2026-09-01": {
+    "state": "unknown"
+   },
+   "2026-09-02": {
+    "state": "unknown"
+   },
+   "2026-09-03": {
+    "state": "unknown"
+   },
+   "2026-09-04": {
+    "state": "unknown"
+   },
+   "2026-09-05": {
+    "state": "unknown"
+   },
+   "2026-09-06": {
+    "state": "unknown"
+   },
+   "2026-09-07": {
+    "state": "unknown"
+   },
+   "2026-09-08": {
+    "state": "unknown"
+   },
+   "2026-09-09": {
+    "state": "unknown"
+   },
+   "2026-09-10": {
+    "state": "unknown"
+   },
+   "2026-09-11": {
+    "state": "unknown"
+   },
+   "2026-09-12": {
+    "state": "unknown"
+   },
+   "2026-09-13": {
+    "state": "unknown"
+   },
+   "2026-09-14": {
+    "state": "unknown"
+   },
+   "2026-09-15": {
+    "state": "unknown"
+   },
+   "2026-09-16": {
+    "state": "unknown"
+   },
+   "2026-09-17": {
+    "state": "unknown"
+   },
+   "2026-09-18": {
+    "state": "unknown"
+   },
+   "2026-09-19": {
+    "state": "unknown"
+   },
+   "2026-09-20": {
+    "state": "unknown"
+   },
+   "2026-09-21": {
+    "state": "unknown"
+   },
+   "2026-09-22": {
+    "state": "unknown"
+   },
+   "2026-09-23": {
+    "state": "unknown"
+   },
+   "2026-09-24": {
+    "state": "unknown"
+   },
+   "2026-09-25": {
+    "state": "unknown"
+   },
+   "2026-09-26": {
+    "state": "unknown"
+   },
+   "2026-09-27": {
+    "state": "unknown"
+   },
+   "2026-09-28": {
+    "state": "unknown"
+   },
+   "2026-09-29": {
+    "state": "unknown"
+   },
+   "2026-09-30": {
+    "state": "unknown"
+   },
+   "2026-10-01": {
+    "state": "unknown"
+   },
+   "2026-10-02": {
+    "state": "unknown"
+   },
+   "2026-10-03": {
+    "state": "unknown"
+   },
+   "2026-10-04": {
+    "state": "unknown"
+   },
+   "2026-10-05": {
+    "state": "unknown"
+   },
+   "2026-10-06": {
+    "state": "unknown"
+   },
+   "2026-10-07": {
+    "state": "unknown"
+   },
+   "2026-10-08": {
+    "state": "unknown"
+   },
+   "2026-10-09": {
+    "state": "unknown"
+   },
+   "2026-10-10": {
+    "state": "unknown"
+   },
+   "2026-10-11": {
+    "state": "unknown"
+   },
+   "2026-10-12": {
+    "state": "unknown"
+   },
+   "2026-10-13": {
+    "state": "unknown"
+   },
+   "2026-10-14": {
+    "state": "unknown"
+   },
+   "2026-10-15": {
+    "state": "unknown"
+   },
+   "2026-10-16": {
+    "state": "unknown"
+   },
+   "2026-10-17": {
+    "state": "unknown"
+   }
+  },
+  "Купольный дом-сфера с бочкой фурако": {
+   "2026-08-21": {
+    "state": "busy"
+   },
+   "2026-08-22": {
+    "state": "busy"
+   },
+   "2026-08-23": {
+    "price": 22000.0,
+    "state": "free"
+   },
+   "2026-08-24": {
+    "price": 20200.0,
+    "state": "free"
+   },
+   "2026-08-25": {
+    "price": 20200.0,
+    "state": "free"
+   },
+   "2026-08-26": {
+    "price": 20200.0,
+    "state": "free"
+   },
+   "2026-08-27": {
+    "price": 20200.0,
+    "state": "free"
+   },
+   "2026-08-28": {
+    "state": "unknown"
+   },
+   "2026-08-29": {
+    "state": "unknown"
+   },
+   "2026-08-30": {
+    "state": "unknown"
+   },
+   "2026-08-31": {
+    "state": "unknown"
+   },
+   "2026-09-01": {
+    "state": "unknown"
+   },
+   "2026-09-02": {
+    "state": "unknown"
+   },
+   "2026-09-03": {
+    "state": "unknown"
+   },
+   "2026-09-04": {
+    "state": "unknown"
+   },
+   "2026-09-05": {
+    "state": "unknown"
+   },
+   "2026-09-06": {
+    "state": "unknown"
+   },
+   "2026-09-07": {
+    "state": "unknown"
+   },
+   "2026-09-08": {
+    "state": "unknown"
+   },
+   "2026-09-09": {
+    "state": "unknown"
+   },
+   "2026-09-10": {
+    "state": "unknown"
+   },
+   "2026-09-11": {
+    "state": "unknown"
+   },
+   "2026-09-12": {
+    "state": "unknown"
+   },
+   "2026-09-13": {
+    "state": "unknown"
+   },
+   "2026-09-14": {
+    "state": "unknown"
+   },
+   "2026-09-15": {
+    "state": "unknown"
+   },
+   "2026-09-16": {
+    "state": "unknown"
+   },
+   "2026-09-17": {
+    "state": "unknown"
+   },
+   "2026-09-18": {
+    "state": "unknown"
+   },
+   "2026-09-19": {
+    "state": "unknown"
+   },
+   "2026-09-20": {
+    "state": "unknown"
+   },
+   "2026-09-21": {
+    "state": "unknown"
+   },
+   "2026-09-22": {
+    "state": "unknown"
+   },
+   "2026-09-23": {
+    "state": "unknown"
+   },
+   "2026-09-24": {
+    "state": "unknown"
+   },
+   "2026-09-25": {
+    "state": "unknown"
+   },
+   "2026-09-26": {
+    "state": "unknown"
+   },
+   "2026-09-27": {
+    "state": "unknown"
+   },
+   "2026-09-28": {
+    "state": "unknown"
+   },
+   "2026-09-29": {
+    "state": "unknown"
+   },
+   "2026-09-30": {
+    "state": "unknown"
+   },
+   "2026-10-01": {
+    "state": "unknown"
+   },
+   "2026-10-02": {
+    "state": "unknown"
+   },
+   "2026-10-03": {
+    "state": "unknown"
+   },
+   "2026-10-04": {
+    "state": "unknown"
+   },
+   "2026-10-05": {
+    "state": "unknown"
+   },
+   "2026-10-06": {
+    "state": "unknown"
+   },
+   "2026-10-07": {
+    "state": "unknown"
+   },
+   "2026-10-08": {
+    "state": "unknown"
+   },
+   "2026-10-09": {
+    "state": "unknown"
+   },
+   "2026-10-10": {
+    "state": "unknown"
+   },
+   "2026-10-11": {
+    "state": "unknown"
+   },
+   "2026-10-12": {
+    "state": "unknown"
+   },
+   "2026-10-13": {
+    "state": "unknown"
+   },
+   "2026-10-14": {
+    "state": "unknown"
+   },
+   "2026-10-15": {
+    "state": "unknown"
+   },
+   "2026-10-16": {
+    "state": "unknown"
+   },
+   "2026-10-17": {
+    "state": "unknown"
+   }
+  },
+  "Семейный коттедж с горячей купелью": {
+   "2026-08-21": {
+    "price": 32900.0,
+    "state": "free"
+   },
+   "2026-08-22": {
+    "price": 54700.0,
+    "state": "free"
+   },
+   "2026-08-23": {
+    "price": 26300.0,
+    "state": "free"
+   },
+   "2026-08-24": {
+    "state": "busy"
+   },
+   "2026-08-25": {
+    "state": "busy"
+   },
+   "2026-08-26": {
+    "state": "busy"
+   },
+   "2026-08-27": {
+    "state": "busy"
+   },
+   "2026-08-28": {
+    "state": "unknown"
+   },
+   "2026-08-29": {
+    "state": "unknown"
+   },
+   "2026-08-30": {
+    "state": "unknown"
+   },
+   "2026-08-31": {
+    "state": "unknown"
+   },
+   "2026-09-01": {
+    "state": "unknown"
+   },
+   "2026-09-02": {
+    "state": "unknown"
+   },
+   "2026-09-03": {
+    "state": "unknown"
+   },
+   "2026-09-04": {
+    "state": "unknown"
+   },
+   "2026-09-05": {
+    "state": "unknown"
+   },
+   "2026-09-06": {
+    "state": "unknown"
+   },
+   "2026-09-07": {
+    "state": "unknown"
+   },
+   "2026-09-08": {
+    "state": "unknown"
+   },
+   "2026-09-09": {
+    "state": "unknown"
+   },
+   "2026-09-10": {
+    "state": "unknown"
+   },
+   "2026-09-11": {
+    "state": "unknown"
+   },
+   "2026-09-12": {
+    "state": "unknown"
+   },
+   "2026-09-13": {
+    "state": "unknown"
+   },
+   "2026-09-14": {
+    "state": "unknown"
+   },
+   "2026-09-15": {
+    "state": "unknown"
+   },
+   "2026-09-16": {
+    "state": "unknown"
+   },
+   "2026-09-17": {
+    "state": "unknown"
+   },
+   "2026-09-18": {
+    "state": "unknown"
+   },
+   "2026-09-19": {
+    "state": "unknown"
+   },
+   "2026-09-20": {
+    "state": "unknown"
+   },
+   "2026-09-21": {
+    "state": "unknown"
+   },
+   "2026-09-22": {
+    "state": "unknown"
+   },
+   "2026-09-23": {
+    "state": "unknown"
+   },
+   "2026-09-24": {
+    "state": "unknown"
+   },
+   "2026-09-25": {
+    "state": "unknown"
+   },
+   "2026-09-26": {
+    "state": "unknown"
+   },
+   "2026-09-27": {
+    "state": "unknown"
+   },
+   "2026-09-28": {
+    "state": "unknown"
+   },
+   "2026-09-29": {
+    "state": "unknown"
+   },
+   "2026-09-30": {
+    "state": "unknown"
+   },
+   "2026-10-01": {
+    "state": "unknown"
+   },
+   "2026-10-02": {
+    "state": "unknown"
+   },
+   "2026-10-03": {
+    "state": "unknown"
+   },
+   "2026-10-04": {
+    "state": "unknown"
+   },
+   "2026-10-05": {
+    "state": "unknown"
+   },
+   "2026-10-06": {
+    "state": "unknown"
+   },
+   "2026-10-07": {
+    "state": "unknown"
+   },
+   "2026-10-08": {
+    "state": "unknown"
+   },
+   "2026-10-09": {
+    "state": "unknown"
+   },
+   "2026-10-10": {
+    "state": "unknown"
+   },
+   "2026-10-11": {
+    "state": "unknown"
+   },
+   "2026-10-12": {
+    "state": "unknown"
+   },
+   "2026-10-13": {
+    "state": "unknown"
+   },
+   "2026-10-14": {
+    "state": "unknown"
+   },
+   "2026-10-15": {
+    "state": "unknown"
+   },
+   "2026-10-16": {
+    "state": "unknown"
+   },
+   "2026-10-17": {
+    "state": "unknown"
+   }
+  },
+  "Семейный коттедж с камином и горячей купелью": {
+   "2026-08-21": {
+    "price": 36000.0,
+    "state": "free"
+   },
+   "2026-08-22": {
+    "price": 57700.0,
+    "state": "free"
+   },
+   "2026-08-23": {
+    "price": 28900.0,
+    "state": "free"
+   },
+   "2026-08-24": {
+    "price": 31300.0,
+    "state": "free"
+   },
+   "2026-08-25": {
+    "price": 31300.0,
+    "state": "free"
+   },
+   "2026-08-26": {
+    "price": 31300.0,
+    "state": "free"
+   },
+   "2026-08-27": {
+    "price": 31300.0,
+    "state": "free"
+   },
+   "2026-08-28": {
+    "state": "unknown"
+   },
+   "2026-08-29": {
+    "state": "unknown"
+   },
+   "2026-08-30": {
+    "state": "unknown"
+   },
+   "2026-08-31": {
+    "state": "unknown"
+   },
+   "2026-09-01": {
+    "state": "unknown"
+   },
+   "2026-09-02": {
+    "state": "unknown"
+   },
+   "2026-09-03": {
+    "state": "unknown"
+   },
+   "2026-09-04": {
+    "state": "unknown"
+   },
+   "2026-09-05": {
+    "state": "unknown"
+   },
+   "2026-09-06": {
+    "state": "unknown"
+   },
+   "2026-09-07": {
+    "state": "unknown"
+   },
+   "2026-09-08": {
+    "state": "unknown"
+   },
+   "2026-09-09": {
+    "state": "unknown"
+   },
+   "2026-09-10": {
+    "state": "unknown"
+   },
+   "2026-09-11": {
+    "state": "unknown"
+   },
+   "2026-09-12": {
+    "state": "unknown"
+   },
+   "2026-09-13": {
+    "state": "unknown"
+   },
+   "2026-09-14": {
+    "state": "unknown"
+   },
+   "2026-09-15": {
+    "state": "unknown"
+   },
+   "2026-09-16": {
+    "state": "unknown"
+   },
+   "2026-09-17": {
+    "state": "unknown"
+   },
+   "2026-09-18": {
+    "state": "unknown"
+   },
+   "2026-09-19": {
+    "state": "unknown"
+   },
+   "2026-09-20": {
+    "state": "unknown"
+   },
+   "2026-09-21": {
+    "state": "unknown"
+   },
+   "2026-09-22": {
+    "state": "unknown"
+   },
+   "2026-09-23": {
+    "state": "unknown"
+   },
+   "2026-09-24": {
+    "state": "unknown"
+   },
+   "2026-09-25": {
+    "state": "unknown"
+   },
+   "2026-09-26": {
+    "state": "unknown"
+   },
+   "2026-09-27": {
+    "state": "unknown"
+   },
+   "2026-09-28": {
+    "state": "unknown"
+   },
+   "2026-09-29": {
+    "state": "unknown"
+   },
+   "2026-09-30": {
+    "state": "unknown"
+   },
+   "2026-10-01": {
+    "state": "unknown"
+   },
+   "2026-10-02": {
+    "state": "unknown"
+   },
+   "2026-10-03": {
+    "state": "unknown"
+   },
+   "2026-10-04": {
+    "state": "unknown"
+   },
+   "2026-10-05": {
+    "state": "unknown"
+   },
+   "2026-10-06": {
+    "state": "unknown"
+   },
+   "2026-10-07": {
+    "state": "unknown"
+   },
+   "2026-10-08": {
+    "state": "unknown"
+   },
+   "2026-10-09": {
+    "state": "unknown"
+   },
+   "2026-10-10": {
+    "state": "unknown"
+   },
+   "2026-10-11": {
+    "state": "unknown"
+   },
+   "2026-10-12": {
+    "state": "unknown"
+   },
+   "2026-10-13": {
+    "state": "unknown"
+   },
+   "2026-10-14": {
+    "state": "unknown"
+   },
+   "2026-10-15": {
+    "state": "unknown"
+   },
+   "2026-10-16": {
+    "state": "unknown"
+   },
+   "2026-10-17": {
+    "state": "unknown"
+   }
+  }
+ },
+ "username": "istracottage"
+}

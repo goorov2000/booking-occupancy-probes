@@ -1,0 +1,12 @@
+{
+ "apartments": [
+  {
+   "id": 166848,
+   "title": "озеро дом 1",
+   "price": 11000,
+   "humans": 4,
+   "sleeps": "2+2",
+   "rooms": 2
+  }
+ ]
+}

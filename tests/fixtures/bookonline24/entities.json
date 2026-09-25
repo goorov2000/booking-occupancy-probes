@@ -1,0 +1,90 @@
+[
+ {
+  "id": "3c0229ed-67e8-4438-8a98-9157c148fd96",
+  "name": "«Барн-хаус», 130 ",
+  "roomCategoryType": "Other",
+  "area": 130.0,
+  "placesMin": 6,
+  "placesMax": 6,
+  "additionalPlaces": 2,
+  "hasKitchen": true,
+  "bathroomType": "FullAndGuest",
+  "rooms": [
+   {
+    "type": "LivingOrBedroom",
+    "placesCount": 2,
+    "beds": [
+     {
+      "type": "Double"
+     }
+    ],
+    "additionalPlacesCount": 0,
+    "additionalBeds": []
+   },
+   {
+    "type": "LivingAndDining",
+    "placesCount": 0,
+    "beds": [],
+    "additionalPlacesCount": 0,
+    "additionalBeds": []
+   },
+   {
+    "type": "LivingOrBedroom",
+    "placesCount": 2,
+    "beds": [],
+    "additionalPlacesCount": 2,
+    "additionalBeds": []
+   },
+   {
+    "type": "LivingOrBedroom",
+    "placesCount": 2,
+    "beds": [],
+    "additionalPlacesCount": 0,
+    "additionalBeds": []
+   }
+  ],
+  "order": 1
+ },
+ {
+  "id": "c0c87477-7bf8-423e-bab9-f4717d7cf8e3",
+  "name": "\" Барн- Хаус\"-70",
+  "roomCategoryType": "Other",
+  "area": 75.0,
+  "placesMin": 4,
+  "placesMax": 4,
+  "additionalPlaces": 1,
+  "hasKitchen": true,
+  "bathroomType": "Full",
+  "rooms": [
+   {
+    "type": "LivingOrBedroom",
+    "placesCount": 2,
+    "beds": [
+     {
+      "type": "Double"
+     },
+     {
+      "type": "DoubleSplit"
+     }
+    ],
+    "additionalPlacesCount": 0,
+    "additionalBeds": []
+   },
+   {
+    "type": "LivingAndDining",
+    "placesCount": 0,
+    "beds": [],
+    "additionalPlacesCount": 0,
+    "additionalBeds": []
+   },
+   {
+    "type": "LivingOrBedroom",
+    "placesCount": 2,
+    "beds": [],
+    "additionalPlacesCount": 1,
+    "additionalBeds": []
+   }
+  ],
+  "order": 2
+ }
+]

@@ -1,0 +1,970 @@
+{
+ "room_type_availability": [
+  {
+   "id_room_type": 77168,
+   "availability_date": [
+    {
+     "is_available": true,
+     "id_rate_plan": 687253,
+     "guests": 1,
+     "price": {
+      "price_before_tax": 26000.0,
+      "price_after_tax": 26000.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-21",
+      "end_date": "2026-08-22"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 687253,
+     "guests": 1,
+     "price": {
+      "price_before_tax": 37600.0,
+      "price_after_tax": 37600.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-22",
+      "end_date": "2026-08-23"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 687253,
+     "guests": 1,
+     "price": {
+      "price_before_tax": 24700.0,
+      "price_after_tax": 24700.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-23",
+      "end_date": "2026-08-24"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 687253,
+     "guests": 1,
+     "price": {
+      "price_before_tax": 23500.0,
+      "price_after_tax": 23500.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-25"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 687253,
+     "guests": 1,
+     "price": {
+      "price_before_tax": 23500.0,
+      "price_after_tax": 23500.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-25",
+      "end_date": "2026-08-26"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 687253,
+     "guests": 1,
+     "price": {
+      "price_before_tax": 23500.0,
+      "price_after_tax": 23500.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-26",
+      "end_date": "2026-08-27"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 687253,
+     "guests": 1,
+     "price": {
+      "price_before_tax": 23500.0,
+      "price_after_tax": 23500.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-27",
+      "end_date": "2026-08-28"
+     }
+    }
+   ]
+  },
+  {
+   "id_room_type": 77169,
+   "availability_date": [
+    {
+     "is_available": true,
+     "id_rate_plan": 687253,
+     "guests": 2,
+     "price": {
+      "price_before_tax": 27100.0,
+      "price_after_tax": 27100.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-21",
+      "end_date": "2026-08-22"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 687253,
+     "guests": 2,
+     "price": {
+      "price_before_tax": 40900.0,
+      "price_after_tax": 40900.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-22",
+      "end_date": "2026-08-23"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 687253,
+     "guests": 2,
+     "price": {
+      "price_before_tax": 23400.0,
+      "price_after_tax": 23400.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-23",
+      "end_date": "2026-08-24"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 687253,
+     "guests": 2,
+     "price": {
+      "price_before_tax": 24600.0,
+      "price_after_tax": 24600.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-25"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 687253,
+     "guests": 2,
+     "price": {
+      "price_before_tax": 24600.0,
+      "price_after_tax": 24600.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-25",
+      "end_date": "2026-08-26"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 687253,
+     "guests": 2,
+     "price": {
+      "price_before_tax": 24600.0,
+      "price_after_tax": 24600.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-26",
+      "end_date": "2026-08-27"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 687253,
+     "guests": 2,
+     "price": {
+      "price_before_tax": 24600.0,
+      "price_after_tax": 24600.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-27",
+      "end_date": "2026-08-28"
+     }
+    }
+   ]
+  },
+  {
+   "id_room_type": 77170,
+   "availability_date": [
+    {
+     "is_available": true,
+     "id_rate_plan": 621174,
+     "guests": 2,
+     "price": {
+      "price_before_tax": 32900.0,
+      "price_after_tax": 32900.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-21",
+      "end_date": "2026-08-22"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 598881,
+     "guests": 2,
+     "price": {
+      "price_before_tax": 54700.0,
+      "price_after_tax": 54700.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-22",
+      "end_date": "2026-08-23"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 621174,
+     "guests": 2,
+     "price": {
+      "price_before_tax": 26300.0,
+      "price_after_tax": 26300.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-23",
+      "end_date": "2026-08-24"
+     }
+    }
+   ]
+  },
+  {
+   "id_room_type": 77171,
+   "availability_date": [
+    {
+     "is_available": true,
+     "id_rate_plan": 687253,
+     "guests": 2,
+     "price": {
+      "price_before_tax": 27100.0,
+      "price_after_tax": 27100.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-21",
+      "end_date": "2026-08-22"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 687253,
+     "guests": 2,
+     "price": {
+      "price_before_tax": 40900.0,
+      "price_after_tax": 40900.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-22",
+      "end_date": "2026-08-23"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 596882,
+     "guests": 2,
+     "price": {
+      "price_before_tax": 14100.0,
+      "price_after_tax": 14100.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-23",
+      "end_date": "2026-08-24"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 596882,
+     "guests": 2,
+     "price": {
+      "price_before_tax": 15400.0,
+      "price_after_tax": 15400.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-25"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 596882,
+     "guests": 2,
+     "price": {
+      "price_before_tax": 15400.0,
+      "price_after_tax": 15400.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-25",
+      "end_date": "2026-08-26"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 596882,
+     "guests": 2,
+     "price": {
+      "price_before_tax": 15400.0,
+      "price_after_tax": 15400.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-26",
+      "end_date": "2026-08-27"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 596882,
+     "guests": 2,
+     "price": {
+      "price_before_tax": 15400.0,
+      "price_after_tax": 15400.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-27",
+      "end_date": "2026-08-28"
+     }
+    }
+   ]
+  },
+  {
+   "id_room_type": 77172,
+   "availability_date": [
+    {
+     "is_available": true,
+     "id_rate_plan": 621174,
+     "guests": 2,
+     "price": {
+      "price_before_tax": 36000.0,
+      "price_after_tax": 36000.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-21",
+      "end_date": "2026-08-22"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 598881,
+     "guests": 2,
+     "price": {
+      "price_before_tax": 57700.0,
+      "price_after_tax": 57700.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-22",
+      "end_date": "2026-08-23"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 621174,
+     "guests": 2,
+     "price": {
+      "price_before_tax": 28900.0,
+      "price_after_tax": 28900.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-23",
+      "end_date": "2026-08-24"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 621174,
+     "guests": 2,
+     "price": {
+      "price_before_tax": 31300.0,
+      "price_after_tax": 31300.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-25"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 621174,
+     "guests": 2,
+     "price": {
+      "price_before_tax": 31300.0,
+      "price_after_tax": 31300.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-25",
+      "end_date": "2026-08-26"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 621174,
+     "guests": 2,
+     "price": {
+      "price_before_tax": 31300.0,
+      "price_after_tax": 31300.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-26",
+      "end_date": "2026-08-27"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 621174,
+     "guests": 2,
+     "price": {
+      "price_before_tax": 31300.0,
+      "price_after_tax": 31300.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-27",
+      "end_date": "2026-08-28"
+     }
+    }
+   ]
+  },
+  {
+   "id_room_type": 95929,
+   "availability_date": [
+    {
+     "is_available": true,
+     "id_rate_plan": 596882,
+     "guests": 1,
+     "price": {
+      "price_before_tax": 31700.0,
+      "price_after_tax": 31700.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-21",
+      "end_date": "2026-08-22"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 596882,
+     "guests": 1,
+     "price": {
+      "price_before_tax": 47200.0,
+      "price_after_tax": 47200.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-22",
+      "end_date": "2026-08-23"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 596882,
+     "guests": 1,
+     "price": {
+      "price_before_tax": 24000.0,
+      "price_after_tax": 24000.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-25"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 596882,
+     "guests": 1,
+     "price": {
+      "price_before_tax": 24000.0,
+      "price_after_tax": 24000.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-25",
+      "end_date": "2026-08-26"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 596882,
+     "guests": 1,
+     "price": {
+      "price_before_tax": 24000.0,
+      "price_after_tax": 24000.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-26",
+      "end_date": "2026-08-27"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 596882,
+     "guests": 1,
+     "price": {
+      "price_before_tax": 24000.0,
+      "price_after_tax": 24000.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-27",
+      "end_date": "2026-08-28"
+     }
+    }
+   ]
+  },
+  {
+   "id_room_type": 128542,
+   "availability_date": [
+    {
+     "is_available": true,
+     "id_rate_plan": 596882,
+     "guests": 1,
+     "price": {
+      "price_before_tax": 18200.0,
+      "price_after_tax": 18200.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-21",
+      "end_date": "2026-08-22"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 596882,
+     "guests": 1,
+     "price": {
+      "price_before_tax": 26900.0,
+      "price_after_tax": 26900.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-22",
+      "end_date": "2026-08-23"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 596882,
+     "guests": 1,
+     "price": {
+      "price_before_tax": 15700.0,
+      "price_after_tax": 15700.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-23",
+      "end_date": "2026-08-24"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 596882,
+     "guests": 1,
+     "price": {
+      "price_before_tax": 14500.0,
+      "price_after_tax": 14500.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-25"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 596882,
+     "guests": 1,
+     "price": {
+      "price_before_tax": 14500.0,
+      "price_after_tax": 14500.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-25",
+      "end_date": "2026-08-26"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 596882,
+     "guests": 1,
+     "price": {
+      "price_before_tax": 14500.0,
+      "price_after_tax": 14500.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-26",
+      "end_date": "2026-08-27"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 596882,
+     "guests": 1,
+     "price": {
+      "price_before_tax": 14500.0,
+      "price_after_tax": 14500.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-27",
+      "end_date": "2026-08-28"
+     }
+    }
+   ]
+  },
+  {
+   "id_room_type": 128544,
+   "availability_date": [
+    {
+     "is_available": true,
+     "id_rate_plan": 621174,
+     "guests": 1,
+     "price": {
+      "price_before_tax": 23300.0,
+      "price_after_tax": 23300.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-25"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 621174,
+     "guests": 1,
+     "price": {
+      "price_before_tax": 23300.0,
+      "price_after_tax": 23300.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-25",
+      "end_date": "2026-08-26"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 621174,
+     "guests": 1,
+     "price": {
+      "price_before_tax": 23300.0,
+      "price_after_tax": 23300.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-26",
+      "end_date": "2026-08-27"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 621174,
+     "guests": 1,
+     "price": {
+      "price_before_tax": 23300.0,
+      "price_after_tax": 23300.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-27",
+      "end_date": "2026-08-28"
+     }
+    }
+   ]
+  },
+  {
+   "id_room_type": 165352,
+   "availability_date": [
+    {
+     "is_available": true,
+     "id_rate_plan": 596882,
+     "guests": 1,
+     "price": {
+      "price_before_tax": 22000.0,
+      "price_after_tax": 22000.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-23",
+      "end_date": "2026-08-24"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 596882,
+     "guests": 1,
+     "price": {
+      "price_before_tax": 20200.0,
+      "price_after_tax": 20200.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-25"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 596882,
+     "guests": 1,
+     "price": {
+      "price_before_tax": 20200.0,
+      "price_after_tax": 20200.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-25",
+      "end_date": "2026-08-26"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 596882,
+     "guests": 1,
+     "price": {
+      "price_before_tax": 20200.0,
+      "price_after_tax": 20200.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-26",
+      "end_date": "2026-08-27"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 596882,
+     "guests": 1,
+     "price": {
+      "price_before_tax": 20200.0,
+      "price_after_tax": 20200.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-27",
+      "end_date": "2026-08-28"
+     }
+    }
+   ]
+  },
+  {
+   "id_room_type": 235774,
+   "availability_date": [
+    {
+     "is_available": true,
+     "id_rate_plan": 596882,
+     "guests": 1,
+     "price": {
+      "price_before_tax": 34400.0,
+      "price_after_tax": 34400.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-21",
+      "end_date": "2026-08-22"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 596882,
+     "guests": 1,
+     "price": {
+      "price_before_tax": 55400.0,
+      "price_after_tax": 55400.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-22",
+      "end_date": "2026-08-23"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 596882,
+     "guests": 1,
+     "price": {
+      "price_before_tax": 30200.0,
+      "price_after_tax": 30200.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-23",
+      "end_date": "2026-08-24"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 596882,
+     "guests": 1,
+     "price": {
+      "price_before_tax": 28100.0,
+      "price_after_tax": 28100.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-25",
+      "end_date": "2026-08-26"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 596882,
+     "guests": 1,
+     "price": {
+      "price_before_tax": 28100.0,
+      "price_after_tax": 28100.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-26",
+      "end_date": "2026-08-27"
+     }
+    }
+   ]
+  },
+  {
+   "id_room_type": 352652,
+   "availability_date": [
+    {
+     "is_available": true,
+     "id_rate_plan": 596882,
+     "guests": 1,
+     "price": {
+      "price_before_tax": 31700.0,
+      "price_after_tax": 31700.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-21",
+      "end_date": "2026-08-22"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 596882,
+     "guests": 1,
+     "price": {
+      "price_before_tax": 47200.0,
+      "price_after_tax": 47200.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-22",
+      "end_date": "2026-08-23"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 596882,
+     "guests": 1,
+     "price": {
+      "price_before_tax": 25900.0,
+      "price_after_tax": 25900.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-23",
+      "end_date": "2026-08-24"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 596882,
+     "guests": 1,
+     "price": {
+      "price_before_tax": 24000.0,
+      "price_after_tax": 24000.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-25"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 596882,
+     "guests": 1,
+     "price": {
+      "price_before_tax": 24000.0,
+      "price_after_tax": 24000.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-25",
+      "end_date": "2026-08-26"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 596882,
+     "guests": 1,
+     "price": {
+      "price_before_tax": 24000.0,
+      "price_after_tax": 24000.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-26",
+      "end_date": "2026-08-27"
+     }
+    },
+    {
+     "is_available": true,
+     "id_rate_plan": 596882,
+     "guests": 1,
+     "price": {
+      "price_before_tax": 24000.0,
+      "price_after_tax": 24000.0,
+      "currency": "RUB"
+     },
+     "period": {
+      "start_date": "2026-08-27",
+      "end_date": "2026-08-28"
+     }
+    }
+   ]
+  }
+ ],
+ "hotel": 11269
+}

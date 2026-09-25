@@ -1,0 +1,18 @@
+[project]
+name = "booking-occupancy-probes"
+version = "0.1.0"
+description = "Снимок загрузки объектов размещения по их публичным модулям онлайн-бронирования: пробники движков, разведчик рецептов, датированные снапшоты, сводки, плановый прогон, телефонный канал."
+requires-python = ">=3.12"
+# Ровно то, что импортирует код: requests — транспорт пробников и разведчика,
+# openpyxl — xlsx поюнитного отчёта и листа прозвона.
+dependencies = [
+  "requests>=2.31",
+  "openpyxl>=3.1",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.2"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["occupancy"]

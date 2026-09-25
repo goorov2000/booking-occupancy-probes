@@ -1,0 +1,667 @@
+{
+  "username": "obj_types",
+  "site": "https://example.com/obj_types",
+  "engine": "travelline",
+  "source_kind": "module",
+  "granularity": "per_unit",
+  "units": {
+    "А-фрейм": {
+      "2026-08-13": {
+        "units_total": 3,
+        "units_free": 0,
+        "state": "busy"
+      },
+      "2026-08-14": {
+        "units_total": 3,
+        "units_free": 0,
+        "state": "busy"
+      },
+      "2026-08-15": {
+        "units_total": 3,
+        "units_free": 0,
+        "state": "busy"
+      },
+      "2026-08-16": {
+        "units_total": 3,
+        "units_free": 0,
+        "state": "busy"
+      },
+      "2026-08-17": {
+        "units_total": 3,
+        "units_free": 1,
+        "state": "free",
+        "price": 9500
+      },
+      "2026-08-18": {
+        "units_total": 3,
+        "units_free": 1,
+        "state": "free",
+        "price": 10500
+      },
+      "2026-08-19": {
+        "units_total": 3,
+        "units_free": 2,
+        "state": "free",
+        "price": 8500
+      },
+      "2026-08-20": {
+        "units_total": 3,
+        "units_free": 0,
+        "state": "busy"
+      },
+      "2026-08-21": {
+        "units_total": 3,
+        "units_free": 1,
+        "state": "free",
+        "price": 8500
+      },
+      "2026-08-22": {
+        "units_total": 3,
+        "units_free": 1,
+        "state": "free",
+        "price": 10000
+      },
+      "2026-08-23": {
+        "units_total": 3,
+        "units_free": 2,
+        "state": "free",
+        "price": 9000
+      },
+      "2026-08-24": {
+        "units_total": 3,
+        "units_free": 1,
+        "state": "free",
+        "price": 10500
+      },
+      "2026-08-25": {
+        "units_total": 3,
+        "units_free": 0,
+        "state": "busy"
+      },
+      "2026-08-26": {
+        "units_total": 3,
+        "units_free": 1,
+        "state": "free",
+        "price": 12000
+      },
+      "2026-08-27": {
+        "units_total": 3,
+        "units_free": 1,
+        "state": "free",
+        "price": 8500
+      },
+      "2026-08-28": {
+        "units_total": 3,
+        "units_free": 2,
+        "state": "free",
+        "price": 12000
+      },
+      "2026-08-29": {
+        "units_total": 3,
+        "units_free": 2,
+        "state": "free",
+        "price": 8000
+      },
+      "2026-08-30": {
+        "units_total": 3,
+        "units_free": 1,
+        "state": "free",
+        "price": 7000
+      },
+      "2026-08-31": {
+        "units_total": 3,
+        "units_free": 2,
+        "state": "free",
+        "price": 11000
+      },
+      "2026-09-01": {
+        "units_total": 3,
+        "units_free": 1,
+        "state": "free",
+        "price": 10500
+      },
+      "2026-09-02": {
+        "units_total": 3,
+        "units_free": 2,
+        "state": "free",
+        "price": 11000
+      },
+      "2026-09-03": {
+        "units_total": 3,
+        "units_free": 1,
+        "state": "free",
+        "price": 7500
+      },
+      "2026-09-04": {
+        "units_total": 3,
+        "units_free": 2,
+        "state": "free",
+        "price": 7000
+      },
+      "2026-09-05": {
+        "units_total": 3,
+        "units_free": 2,
+        "state": "free",
+        "price": 7000
+      },
+      "2026-09-06": {
+        "units_total": 3,
+        "units_free": 0,
+        "state": "busy"
+      },
+      "2026-09-07": {
+        "units_total": 3,
+        "units_free": 1,
+        "state": "free",
+        "price": 9500
+      },
+      "2026-09-08": {
+        "units_total": 3,
+        "units_free": 2,
+        "state": "free",
+        "price": 8000
+      },
+      "2026-09-09": {
+        "units_total": 3,
+        "units_free": 2,
+        "state": "free",
+        "price": 7500
+      },
+      "2026-09-10": {
+        "units_total": 3,
+        "units_free": 2,
+        "state": "free",
+        "price": 9500
+      },
+      "2026-09-11": {
+        "units_total": 3,
+        "units_free": 3,
+        "state": "free",
+        "price": 7000
+      },
+      "2026-09-12": {
+        "units_total": 3,
+        "units_free": 3,
+        "state": "free",
+        "price": 12500
+      },
+      "2026-09-13": {
+        "units_total": 3,
+        "units_free": 2,
+        "state": "free",
+        "price": 10000
+      },
+      "2026-09-14": {
+        "units_total": 3,
+        "units_free": 3,
+        "state": "free",
+        "price": 7000
+      },
+      "2026-09-15": {
+        "units_total": 3,
+        "units_free": 2,
+        "state": "free",
+        "price": 8500
+      },
+      "2026-09-16": {
+        "units_total": 3,
+        "units_free": 3,
+        "state": "free",
+        "price": 7500
+      },
+      "2026-09-17": {
+        "units_total": 3,
+        "units_free": 2,
+        "state": "free",
+        "price": 12500
+      },
+      "2026-09-18": {
+        "units_total": 3,
+        "units_free": 3,
+        "state": "free",
+        "price": 7500
+      },
+      "2026-09-19": {
+        "units_total": 3,
+        "units_free": 3,
+        "state": "free",
+        "price": 10500
+      },
+      "2026-09-20": {
+        "units_total": 3,
+        "units_free": 3,
+        "state": "free",
+        "price": 11500
+      },
+      "2026-09-21": {
+        "units_total": 3,
+        "units_free": 3,
+        "state": "free",
+        "price": 9500
+      },
+      "2026-09-22": {
+        "units_total": 3,
+        "units_free": 3,
+        "state": "free",
+        "price": 8000
+      },
+      "2026-09-23": {
+        "units_total": 3,
+        "units_free": 3,
+        "state": "free",
+        "price": 11000
+      },
+      "2026-09-24": {
+        "units_total": 3,
+        "units_free": 3,
+        "state": "free",
+        "price": 7500
+      },
+      "2026-09-25": {
+        "units_total": 3,
+        "units_free": 3,
+        "state": "free",
+        "price": 11500
+      },
+      "2026-09-26": {
+        "units_total": 3,
+        "units_free": 3,
+        "state": "free",
+        "price": 10500
+      },
+      "2026-09-27": {
+        "units_total": 3,
+        "units_free": 3,
+        "state": "free",
+        "price": 8500
+      },
+      "2026-09-28": {
+        "units_total": 3,
+        "units_free": 3,
+        "state": "free",
+        "price": 8500
+      },
+      "2026-09-29": {
+        "units_total": 3,
+        "units_free": 3,
+        "state": "free",
+        "price": 10000
+      },
+      "2026-09-30": {
+        "units_total": 3,
+        "units_free": 3,
+        "state": "free",
+        "price": 12000
+      },
+      "2026-10-01": {
+        "units_total": 3,
+        "units_free": 3,
+        "state": "free",
+        "price": 7000
+      },
+      "2026-10-02": {
+        "units_total": 3,
+        "units_free": 3,
+        "state": "free",
+        "price": 9500
+      },
+      "2026-10-03": {
+        "units_total": 3,
+        "units_free": 3,
+        "state": "free",
+        "price": 8500
+      },
+      "2026-10-04": {
+        "units_total": 3,
+        "units_free": 3,
+        "state": "free",
+        "price": 8000
+      },
+      "2026-10-05": {
+        "units_total": 3,
+        "units_free": 3,
+        "state": "free",
+        "price": 10000
+      },
+      "2026-10-06": {
+        "units_total": 3,
+        "units_free": 3,
+        "state": "free",
+        "price": 11000
+      },
+      "2026-10-07": {
+        "units_total": 3,
+        "units_free": 3,
+        "state": "free",
+        "price": 9500
+      }
+    },
+    "Люкс": {
+      "2026-08-13": {
+        "units_total": 1,
+        "units_free": 0,
+        "state": "busy"
+      },
+      "2026-08-14": {
+        "units_total": 1,
+        "units_free": 0,
+        "state": "busy"
+      },
+      "2026-08-15": {
+        "units_total": 1,
+        "units_free": 1,
+        "state": "free",
+        "price": 9500
+      },
+      "2026-08-16": {
+        "units_total": 1,
+        "units_free": 0,
+        "state": "busy"
+      },
+      "2026-08-17": {
+        "units_total": 1,
+        "units_free": 0,
+        "state": "busy"
+      },
+      "2026-08-18": {
+        "units_total": 1,
+        "units_free": 0,
+        "state": "busy"
+      },
+      "2026-08-19": {
+        "units_total": 1,
+        "units_free": 0,
+        "state": "busy"
+      },
+      "2026-08-20": {
+        "units_total": 1,
+        "units_free": 0,
+        "state": "busy"
+      },
+      "2026-08-21": {
+        "units_total": 1,
+        "units_free": 0,
+        "state": "busy"
+      },
+      "2026-08-22": {
+        "units_total": 1,
+        "units_free": 0,
+        "state": "busy"
+      },
+      "2026-08-23": {
+        "units_total": 1,
+        "units_free": 0,
+        "state": "busy"
+      },
+      "2026-08-24": {
+        "units_total": 1,
+        "units_free": 1,
+        "state": "free",
+        "price": 9000
+      },
+      "2026-08-25": {
+        "units_total": 1,
+        "units_free": 1,
+        "state": "free",
+        "price": 8000
+      },
+      "2026-08-26": {
+        "units_total": 1,
+        "units_free": 1,
+        "state": "free",
+        "price": 10500
+      },
+      "2026-08-27": {
+        "units_total": 1,
+        "units_free": 0,
+        "state": "busy"
+      },
+      "2026-08-28": {
+        "units_total": 1,
+        "units_free": 0,
+        "state": "busy"
+      },
+      "2026-08-29": {
+        "units_total": 1,
+        "units_free": 1,
+        "state": "free",
+        "price": 8500
+      },
+      "2026-08-30": {
+        "units_total": 1,
+        "units_free": 0,
+        "state": "busy"
+      },
+      "2026-08-31": {
+        "units_total": 1,
+        "units_free": 1,
+        "state": "free",
+        "price": 12500
+      },
+      "2026-09-01": {
+        "units_total": 1,
+        "units_free": 0,
+        "state": "busy"
+      },
+      "2026-09-02": {
+        "units_total": 1,
+        "units_free": 1,
+        "state": "free",
+        "price": 7500
+      },
+      "2026-09-03": {
+        "units_total": 1,
+        "units_free": 0,
+        "state": "busy"
+      },
+      "2026-09-04": {
+        "units_total": 1,
+        "units_free": 1,
+        "state": "free",
+        "price": 10000
+      },
+      "2026-09-05": {
+        "units_total": 1,
+        "units_free": 1,
+        "state": "free",
+        "price": 8000
+      },
+      "2026-09-06": {
+        "units_total": 1,
+        "units_free": 1,
+        "state": "free",
+        "price": 8500
+      },
+      "2026-09-07": {
+        "units_total": 1,
+        "units_free": 1,
+        "state": "free",
+        "price": 12500
+      },
+      "2026-09-08": {
+        "units_total": 1,
+        "units_free": 1,
+        "state": "free",
+        "price": 8000
+      },
+      "2026-09-09": {
+        "units_total": 1,
+        "units_free": 1,
+        "state": "free",
+        "price": 8000
+      },
+      "2026-09-10": {
+        "units_total": 1,
+        "units_free": 1,
+        "state": "free",
+        "price": 8000
+      },
+      "2026-09-11": {
+        "units_total": 1,
+        "units_free": 0,
+        "state": "busy"
+      },
+      "2026-09-12": {
+        "units_total": 1,
+        "units_free": 0,
+        "state": "busy"
+      },
+      "2026-09-13": {
+        "units_total": 1,
+        "units_free": 1,
+        "state": "free",
+        "price": 7000
+      },
+      "2026-09-14": {
+        "units_total": 1,
+        "units_free": 1,
+        "state": "free",
+        "price": 12000
+      },
+      "2026-09-15": {
+        "units_total": 1,
+        "units_free": 1,
+        "state": "free",
+        "price": 7500
+      },
+      "2026-09-16": {
+        "units_total": 1,
+        "units_free": 1,
+        "state": "free",
+        "price": 8500
+      },
+      "2026-09-17": {
+        "units_total": 1,
+        "units_free": 0,
+        "state": "busy"
+      },
+      "2026-09-18": {
+        "units_total": 1,
+        "units_free": 1,
+        "state": "free",
+        "price": 11000
+      },
+      "2026-09-19": {
+        "units_total": 1,
+        "units_free": 1,
+        "state": "free",
+        "price": 8000
+      },
+      "2026-09-20": {
+        "units_total": 1,
+        "units_free": 1,
+        "state": "free",
+        "price": 9500
+      },
+      "2026-09-21": {
+        "units_total": 1,
+        "units_free": 1,
+        "state": "free",
+        "price": 9500
+      },
+      "2026-09-22": {
+        "units_total": 1,
+        "units_free": 1,
+        "state": "free",
+        "price": 10500
+      },
+      "2026-09-23": {
+        "units_total": 1,
+        "units_free": 1,
+        "state": "free",
+        "price": 10000
+      },
+      "2026-09-24": {
+        "units_total": 1,
+        "units_free": 1,
+        "state": "free",
+        "price": 8000
+      },
+      "2026-09-25": {
+        "units_total": 1,
+        "units_free": 1,
+        "state": "free",
+        "price": 8000
+      },
+      "2026-09-26": {
+        "units_total": 1,
+        "units_free": 1,
+        "state": "free",
+        "price": 11000
+      },
+      "2026-09-27": {
+        "units_total": 1,
+        "units_free": 1,
+        "state": "free",
+        "price": 9000
+      },
+      "2026-09-28": {
+        "units_total": 1,
+        "units_free": 1,
+        "state": "free",
+        "price": 10000
+      },
+      "2026-09-29": {
+        "units_total": 1,
+        "units_free": 1,
+        "state": "free",
+        "price": 8500
+      },
+      "2026-09-30": {
+        "units_total": 1,
+        "units_free": 1,
+        "state": "free",
+        "price": 9500
+      },
+      "2026-10-01": {
+        "units_total": 1,
+        "units_free": 1,
+        "state": "free",
+        "price": 8500
+      },
+      "2026-10-02": {
+        "units_total": 1,
+        "units_free": 1,
+        "state": "free",
+        "price": 10500
+      },
+      "2026-10-03": {
+        "units_total": 1,
+        "units_free": 1,
+        "state": "free",
+        "price": 11000
+      },
+      "2026-10-04": {
+        "units_total": 1,
+        "units_free": 1,
+        "state": "free",
+        "price": 12000
+      },
+      "2026-10-05": {
+        "units_total": 1,
+        "units_free": 1,
+        "state": "free",
+        "price": 9500
+      },
+      "2026-10-06": {
+        "units_total": 1,
+        "units_free": 1,
+        "state": "free",
+        "price": 8500
+      },
+      "2026-10-07": {
+        "units_total": 1,
+        "units_free": 1,
+        "state": "free",
+        "price": 7500
+      }
+    }
+  },
+  "checked_at": "2026-08-13T06:30:00+03:00",
+  "status": "ok",
+  "reason": "",
+  "source_urls": [
+    "https://example.com/obj_types/widget"
+  ],
+  "inventory_until": "2026-09-15"
+}

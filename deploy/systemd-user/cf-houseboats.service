@@ -1,0 +1,22 @@
+[Unit]
+# Витрина: пути ниже — плейсхолдеры (/home/<user>/booking-occupancy-probes);
+# OnFailure=cf-alert@ ссылается на уведомитель внешнего контура, в репозиторий не входит.
+# Еженедельный снимок занятости хаусботов (контур заказчика 07.09.2026).
+# Ставится СИМЛИНКОМ, как cf-occupancy.service:
+#   ln -sf /home/<user>/booking-occupancy-probes/deploy/systemd-user/cf-houseboats.{service,timer} ~/.config/systemd/user/
+#   systemctl --user daemon-reload && systemctl --user enable --now cf-houseboats.timer
+# Точка входа — run_houseboats.sh скилла glamping-occupancy: свой корень
+# снапшотов agent-runtime/research/houseboats/occupancy/, чат владельца не
+# трогает, строку в Run Log пишет сам. Модель не тратит.
+Description=CF: снимок занятости хаусботов раз в неделю (user)
+After=network-online.target
+OnFailure=cf-alert@%n.service
+
+[Service]
+Type=oneshot
+WorkingDirectory=/home/<user>/booking-occupancy-probes
+Environment=PATH=/home/<user>/.local/bin:/usr/local/bin:/usr/bin:/bin
+Nice=10
+# Целей с машинным каналом единицы, дедлайн прогона 60 мин; потолок — с запасом на хвост.
+TimeoutStartSec=90min
+ExecStart=/home/<user>/booking-occupancy-probes/occupancy/run_houseboats.sh

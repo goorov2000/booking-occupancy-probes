@@ -1,0 +1,147 @@
+{
+ "data": [
+  [
+   {
+    "allowBeds": 0,
+    "minDateFrom": "2026-09-07T00:00:00",
+    "defaultDateFrom": "2026-09-08T00:00:00",
+    "defaultDateTo": "2026-09-09T00:00:00",
+    "defaultNumberOfGuests": null,
+    "minAgeOfChild": null,
+    "maxAgeOfChild": null,
+    "maxRoomCapacity": 6,
+    "allowRostourismProgram": false,
+    "allowUpsale": true,
+    "agreeText": null,
+    "agreeUrl": null,
+    "pdUrl": null,
+    "pdText": null,
+    "metrikaCounter": null,
+    "metrikaGoalCalendar": null,
+    "metrikaGoalSearch": null,
+    "metrikaGoalBasket": null,
+    "metrikaGoalBook": null,
+    "metrikaGoalConfirm": null,
+    "metrikaGoalOrder": null,
+    "metrikaGoalPaid": null,
+    "analyticsCounter": null,
+    "analyticsGoalCalendar": null,
+    "analyticsGoalSearch": null,
+    "analyticsGoalBasket": null,
+    "analyticsGoalBook": null,
+    "analyticsGoalOrder": null,
+    "analyticsGoalPaid": null,
+    "disableAuth": "0",
+    "openPaymentInNewTab": false,
+    "fullPaymentIncludeExtra": false,
+    "askOnlyFirstGuest": false,
+    "defaultPhoneCode": "7",
+    "onlyBedPlaces": false,
+    "companyRegistryNumber": ""
+   }
+  ],
+  [
+   {
+    "id": "",
+    "name": ""
+   }
+  ],
+  [
+   {
+    "id": "ru",
+    "name": "Руccкий"
+   },
+   {
+    "id": "en",
+    "name": "English"
+   },
+   {
+    "id": "bg",
+    "name": "Български"
+   }
+  ],
+  [
+   {
+    "id": 1,
+    "name": "Кондиционер",
+    "url": "Content/Gallery/RoomOptions/cond.svg"
+   },
+   {
+    "id": 3,
+    "name": "Балкон",
+    "url": "Content/Gallery/RoomOptions/balcony.svg"
+   },
+   {
+    "id": 4,
+    "name": "Ванна",
+    "url": "Content/Gallery/RoomOptions/bath.svg"
+   },
+   {
+    "id": 5,
+    "name": "Холодильник",
+    "url": "Content/Gallery/RoomOptions/freez.svg"
+   },
+   {
+    "id": 6,
+    "name": "Кухня",
+    "url": "Content/Gallery/RoomOptions/kitchen.svg"
+   },
+   {
+    "id": 7,
+    "name": "Вид на море",
+    "url": "Content/Gallery/RoomOptions/sea.svg"
+   },
+   {
+    "id": 8,
+    "name": "Терраса",
+    "url": "Content/Gallery/RoomOptions/terrace.svg"
+   },
+   {
+    "id": 9,
+    "name": "Телевизор",
+    "url": "Content/Gallery/RoomOptions/tv.svg"
+   },
+   {
+    "id": 10,
+    "name": "Wi-Fi",
+    "url": "Content/Gallery/RoomOptions/wi-fi.svg"
+   }
+  ],
+  [
+   {
+    "id": 83720,
+    "name": "Стандартный",
+    "isPromotionGroup": false
+   }
+  ],
+  [],
+  [
+   {
+    "id": 52211,
+    "name": "Вилла"
+   },
+   {
+    "id": 52212,
+    "name": "Хаусбот 45"
+   },
+   {
+    "id": 52626,
+    "name": "Стандарт"
+   },
+   {
+    "id": 53924,
+    "name": "Хаусбот-мини"
+   },
+   {
+    "id": 54654,
+    "name": "Хаусбот 40"
+   }
+  ],
+  [
+   {
+    "hotelName": "Отель Гора",
+    "token": "3D3AED88-3D9E-4B8D-AED8-3FAF58FC1310"
+   }
+  ]
+ ]
+}

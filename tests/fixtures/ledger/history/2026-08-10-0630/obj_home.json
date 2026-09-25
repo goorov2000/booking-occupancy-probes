@@ -1,0 +1,56 @@
+{
+  "username": "obj_home",
+  "site": "https://example.com/obj_home",
+  "engine": "homereserve",
+  "source_kind": "module",
+  "granularity": "per_unit",
+  "units": {
+    "Дом 1": {
+      "2026-08-10": {
+        "state": "busy"
+      },
+      "2026-08-11": {
+        "state": "free",
+        "price": 10000
+      },
+      "2026-08-12": {
+        "state": "free",
+        "price": 10000
+      },
+      "2026-08-13": {
+        "state": "free",
+        "price": 11000
+      },
+      "2026-08-14": {
+        "state": "free",
+        "price": 12000
+      }
+    },
+    "Дом 2": {
+      "2026-08-10": {
+        "state": "free",
+        "price": 9000
+      },
+      "2026-08-11": {
+        "state": "free",
+        "price": 9000
+      },
+      "2026-08-12": {
+        "state": "busy"
+      },
+      "2026-08-13": {
+        "state": "free",
+        "price": 9500
+      },
+      "2026-08-14": {
+        "state": "unknown"
+      }
+    }
+  },
+  "checked_at": "2026-08-10T06:30:00+03:00",
+  "status": "ok",
+  "reason": "",
+  "source_urls": [
+    "https://example.com/obj_home/widget"
+  ]
+}

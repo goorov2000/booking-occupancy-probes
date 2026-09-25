@@ -1,0 +1,12 @@
+<!-- СИНТЕТИЧЕСКАЯ фикстура по разбору ревью волны 2: в вызове виджета
+     HomeReserve ВЛОЖЕННЫЙ объект (guests) стоит ДО ключа token. Строгая
+     регулярка с классом [^{}] на такой раскладке не срабатывала, и токен
+     добывался запасным путём из адреса самого скрипта движка — в рецепт
+     уходило token="widget" с вердиктом high. -->
+<html><body>
+<div id="hr-widget"></div>
+<script type="module" src="https://homereserve.ru/widget.js"></script>
+<script type="module">
+    window.homereserve.initWidgetSearch({"guests":{"adults":2,"children":[]},"token":"Sh0gLTkBgP","apartments":[71049,89311],"tag":"mainpage"})
+</script>
+</body></html>

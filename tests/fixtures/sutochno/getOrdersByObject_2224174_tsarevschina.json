@@ -1,0 +1,47 @@
+{
+ "success": true,
+ "data": {
+  "calendars": [
+   {
+    "date_begin": "2026-10-16 14:00:00",
+    "date_end": "2026-10-18 12:00:00",
+    "type": "cs-import",
+    "id": 596476647,
+    "object_id": 2224174
+   },
+   {
+    "date_begin": "2026-09-19 14:00:00",
+    "date_end": "2026-09-20 12:00:00",
+    "type": "cs-import",
+    "id": 592396211,
+    "object_id": 2224174
+   },
+   {
+    "date_begin": "2026-09-14 14:00:00",
+    "date_end": "2026-09-18 12:00:00",
+    "type": "cs-import",
+    "id": 596689511,
+    "object_id": 2224174
+   },
+   {
+    "date_begin": "2026-09-11 14:00:00",
+    "date_end": "2026-09-13 12:00:00",
+    "type": "cs-import",
+    "id": 596439681,
+    "object_id": 2224174
+   },
+   {
+    "date_begin": "2026-09-07 14:00:00",
+    "date_end": "2026-09-08 12:00:00",
+    "type": "cs-import",
+    "id": 596099283,
+    "object_id": 2224174
+   }
+  ]
+ },
+ "errors": [],
+ "actions": [],
+ "platform": null,
+ "uuid": null,
+ "timestamp": 1788816284
+}

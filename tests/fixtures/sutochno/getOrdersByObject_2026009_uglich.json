@@ -1,0 +1,19 @@
+{
+ "success": true,
+ "data": {
+  "calendars": [
+   {
+    "date_begin": "2026-10-19 14:00:00",
+    "date_end": "2027-04-30 12:00:00",
+    "type": "cs-appr",
+    "id": 590491280,
+    "object_id": 2026009
+   }
+  ]
+ },
+ "errors": [],
+ "actions": [],
+ "platform": null,
+ "uuid": null,
+ "timestamp": 1788816286
+}

@@ -1,0 +1,683 @@
+{
+  "dates": {
+    "elements": {
+      "2026-08-14": {
+        "date": {
+          "date": "14.08.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1786654800
+        },
+        "minNight": null,
+        "minNightArrival": null,
+        "maxNight": null,
+        "price": null,
+        "isClosed": true,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": true
+      },
+      "2026-08-15": {
+        "date": {
+          "date": "15.08.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1786741200
+        },
+        "minNight": null,
+        "minNightArrival": null,
+        "maxNight": null,
+        "price": null,
+        "isClosed": true,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": true
+      },
+      "2026-08-16": {
+        "date": {
+          "date": "16.08.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1786827600
+        },
+        "minNight": null,
+        "minNightArrival": null,
+        "maxNight": null,
+        "price": null,
+        "isClosed": true,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": true
+      },
+      "2026-08-17": {
+        "date": {
+          "date": "17.08.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1786914000
+        },
+        "minNight": null,
+        "minNightArrival": null,
+        "maxNight": null,
+        "price": null,
+        "isClosed": true,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": true
+      },
+      "2026-08-18": {
+        "date": {
+          "date": "18.08.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1787000400
+        },
+        "minNight": null,
+        "minNightArrival": null,
+        "maxNight": null,
+        "price": null,
+        "isClosed": true,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": true
+      },
+      "2026-08-19": {
+        "date": {
+          "date": "19.08.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1787086800
+        },
+        "minNight": null,
+        "minNightArrival": null,
+        "maxNight": null,
+        "price": null,
+        "isClosed": true,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": true
+      },
+      "2026-08-20": {
+        "date": {
+          "date": "20.08.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1787173200
+        },
+        "minNight": 1,
+        "minNightArrival": 1,
+        "maxNight": null,
+        "price": 9000,
+        "isClosed": false,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": true
+      },
+      "2026-08-21": {
+        "date": {
+          "date": "21.08.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1787259600
+        },
+        "minNight": null,
+        "minNightArrival": null,
+        "maxNight": null,
+        "price": null,
+        "isClosed": true,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": false
+      },
+      "2026-08-22": {
+        "date": {
+          "date": "22.08.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1787346000
+        },
+        "minNight": null,
+        "minNightArrival": null,
+        "maxNight": null,
+        "price": null,
+        "isClosed": true,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": true
+      },
+      "2026-08-23": {
+        "date": {
+          "date": "23.08.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1787432400
+        },
+        "minNight": null,
+        "minNightArrival": null,
+        "maxNight": null,
+        "price": null,
+        "isClosed": true,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": true
+      },
+      "2026-08-24": {
+        "date": {
+          "date": "24.08.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1787518800
+        },
+        "minNight": 1,
+        "minNightArrival": 1,
+        "maxNight": null,
+        "price": 9000,
+        "isClosed": false,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": true
+      },
+      "2026-08-25": {
+        "date": {
+          "date": "25.08.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1787605200
+        },
+        "minNight": 1,
+        "minNightArrival": 1,
+        "maxNight": null,
+        "price": 9000,
+        "isClosed": false,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": false
+      },
+      "2026-08-26": {
+        "date": {
+          "date": "26.08.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1787691600
+        },
+        "minNight": 1,
+        "minNightArrival": 1,
+        "maxNight": null,
+        "price": 9000,
+        "isClosed": false,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": false
+      },
+      "2026-08-27": {
+        "date": {
+          "date": "27.08.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1787778000
+        },
+        "minNight": null,
+        "minNightArrival": null,
+        "maxNight": null,
+        "price": null,
+        "isClosed": true,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": false
+      },
+      "2026-08-28": {
+        "date": {
+          "date": "28.08.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1787864400
+        },
+        "minNight": null,
+        "minNightArrival": null,
+        "maxNight": null,
+        "price": null,
+        "isClosed": true,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": true
+      },
+      "2026-08-29": {
+        "date": {
+          "date": "29.08.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1787950800
+        },
+        "minNight": null,
+        "minNightArrival": null,
+        "maxNight": null,
+        "price": null,
+        "isClosed": true,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": true
+      },
+      "2026-08-30": {
+        "date": {
+          "date": "30.08.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1788037200
+        },
+        "minNight": 1,
+        "minNightArrival": 1,
+        "maxNight": null,
+        "price": 9000,
+        "isClosed": false,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": true
+      },
+      "2026-08-31": {
+        "date": {
+          "date": "31.08.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1788123600
+        },
+        "minNight": 1,
+        "minNightArrival": 1,
+        "maxNight": null,
+        "price": 9000,
+        "isClosed": false,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": false
+      },
+      "2026-09-01": {
+        "date": {
+          "date": "01.09.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1788210000
+        },
+        "minNight": 1,
+        "minNightArrival": 1,
+        "maxNight": null,
+        "price": 9000,
+        "isClosed": false,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": false
+      },
+      "2026-09-02": {
+        "date": {
+          "date": "02.09.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1788296400
+        },
+        "minNight": 1,
+        "minNightArrival": 1,
+        "maxNight": null,
+        "price": 9000,
+        "isClosed": false,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": false
+      },
+      "2026-09-03": {
+        "date": {
+          "date": "03.09.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1788382800
+        },
+        "minNight": 1,
+        "minNightArrival": 1,
+        "maxNight": null,
+        "price": 9000,
+        "isClosed": false,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": false
+      },
+      "2026-09-04": {
+        "date": {
+          "date": "04.09.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1788469200
+        },
+        "minNight": null,
+        "minNightArrival": null,
+        "maxNight": null,
+        "price": null,
+        "isClosed": true,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": false
+      },
+      "2026-09-05": {
+        "date": {
+          "date": "05.09.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1788555600
+        },
+        "minNight": null,
+        "minNightArrival": null,
+        "maxNight": null,
+        "price": null,
+        "isClosed": true,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": true
+      },
+      "2026-09-06": {
+        "date": {
+          "date": "06.09.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1788642000
+        },
+        "minNight": null,
+        "minNightArrival": null,
+        "maxNight": null,
+        "price": null,
+        "isClosed": true,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": true
+      },
+      "2026-09-07": {
+        "date": {
+          "date": "07.09.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1788728400
+        },
+        "minNight": 1,
+        "minNightArrival": 1,
+        "maxNight": null,
+        "price": 9000,
+        "isClosed": false,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": true
+      },
+      "2026-09-08": {
+        "date": {
+          "date": "08.09.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1788814800
+        },
+        "minNight": 1,
+        "minNightArrival": 1,
+        "maxNight": null,
+        "price": 9000,
+        "isClosed": false,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": false
+      },
+      "2026-09-09": {
+        "date": {
+          "date": "09.09.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1788901200
+        },
+        "minNight": 1,
+        "minNightArrival": 1,
+        "maxNight": null,
+        "price": 9000,
+        "isClosed": false,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": false
+      },
+      "2026-09-10": {
+        "date": {
+          "date": "10.09.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1788987600
+        },
+        "minNight": 1,
+        "minNightArrival": 1,
+        "maxNight": null,
+        "price": 9000,
+        "isClosed": false,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": false
+      },
+      "2026-09-11": {
+        "date": {
+          "date": "11.09.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1789074000
+        },
+        "minNight": 1,
+        "minNightArrival": 1,
+        "maxNight": null,
+        "price": 9000,
+        "isClosed": false,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": false
+      },
+      "2026-09-12": {
+        "date": {
+          "date": "12.09.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1789160400
+        },
+        "minNight": 1,
+        "minNightArrival": 2,
+        "maxNight": null,
+        "price": 13000,
+        "isClosed": false,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": false
+      },
+      "2026-09-13": {
+        "date": {
+          "date": "13.09.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1789246800
+        },
+        "minNight": 1,
+        "minNightArrival": 1,
+        "maxNight": null,
+        "price": 9000,
+        "isClosed": false,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": false
+      },
+      "2026-09-14": {
+        "date": {
+          "date": "14.09.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1789333200
+        },
+        "minNight": 1,
+        "minNightArrival": 1,
+        "maxNight": null,
+        "price": 9000,
+        "isClosed": false,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": false
+      },
+      "2026-09-15": {
+        "date": {
+          "date": "15.09.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1789419600
+        },
+        "minNight": 1,
+        "minNightArrival": 1,
+        "maxNight": null,
+        "price": 9000,
+        "isClosed": false,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": false
+      },
+      "2026-09-16": {
+        "date": {
+          "date": "16.09.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1789506000
+        },
+        "minNight": 1,
+        "minNightArrival": 1,
+        "maxNight": null,
+        "price": 9000,
+        "isClosed": false,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": false
+      },
+      "2026-09-17": {
+        "date": {
+          "date": "17.09.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1789592400
+        },
+        "minNight": 1,
+        "minNightArrival": 1,
+        "maxNight": null,
+        "price": 9000,
+        "isClosed": false,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": false
+      },
+      "2026-09-18": {
+        "date": {
+          "date": "18.09.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1789678800
+        },
+        "minNight": 1,
+        "minNightArrival": 1,
+        "maxNight": null,
+        "price": 9000,
+        "isClosed": false,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": false
+      },
+      "2026-09-19": {
+        "date": {
+          "date": "19.09.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1789765200
+        },
+        "minNight": 1,
+        "minNightArrival": 2,
+        "maxNight": null,
+        "price": 13000,
+        "isClosed": false,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": false
+      },
+      "2026-09-20": {
+        "date": {
+          "date": "20.09.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1789851600
+        },
+        "minNight": 1,
+        "minNightArrival": 1,
+        "maxNight": null,
+        "price": 9000,
+        "isClosed": false,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": false
+      },
+      "2026-09-21": {
+        "date": {
+          "date": "21.09.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1789938000
+        },
+        "minNight": 1,
+        "minNightArrival": 1,
+        "maxNight": null,
+        "price": 9000,
+        "isClosed": false,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": false
+      },
+      "2026-09-22": {
+        "date": {
+          "date": "22.09.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1790024400
+        },
+        "minNight": 1,
+        "minNightArrival": 1,
+        "maxNight": null,
+        "price": 9000,
+        "isClosed": false,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": false
+      },
+      "2026-09-23": {
+        "date": {
+          "date": "23.09.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1790110800
+        },
+        "minNight": 1,
+        "minNightArrival": 1,
+        "maxNight": null,
+        "price": 9000,
+        "isClosed": false,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": false
+      },
+      "2026-09-24": {
+        "date": {
+          "date": "24.09.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1790197200
+        },
+        "minNight": 1,
+        "minNightArrival": 1,
+        "maxNight": null,
+        "price": 9000,
+        "isClosed": false,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": false
+      },
+      "2026-09-25": {
+        "date": {
+          "date": "25.09.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1790283600
+        },
+        "minNight": 1,
+        "minNightArrival": 1,
+        "maxNight": null,
+        "price": 9000,
+        "isClosed": false,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": false
+      },
+      "2026-09-26": {
+        "date": {
+          "date": "26.09.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1790370000
+        },
+        "minNight": 1,
+        "minNightArrival": 2,
+        "maxNight": null,
+        "price": 13000,
+        "isClosed": false,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": false
+      },
+      "2026-09-27": {
+        "date": {
+          "date": "27.09.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1790456400
+        },
+        "minNight": 1,
+        "minNightArrival": 1,
+        "maxNight": null,
+        "price": 9000,
+        "isClosed": false,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": false
+      },
+      "2026-09-28": {
+        "date": {
+          "date": "28.09.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1790542800
+        },
+        "minNight": 1,
+        "minNightArrival": 1,
+        "maxNight": null,
+        "price": 9000,
+        "isClosed": false,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": false
+      },
+      "2026-09-29": {
+        "date": {
+          "date": "29.09.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1790629200
+        },
+        "minNight": 1,
+        "minNightArrival": 1,
+        "maxNight": null,
+        "price": 9000,
+        "isClosed": false,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": false
+      },
+      "2026-09-30": {
+        "date": {
+          "date": "30.09.2026",
+          "timeZone": "Europe/Moscow",
+          "timestamp": 1790715600
+        },
+        "minNight": 1,
+        "minNightArrival": 1,
+        "maxNight": null,
+        "price": 9000,
+        "isClosed": false,
+        "isClosedOnArrival": false,
+        "isClosedOnDeparture": false
+      }
+    },
+    "firstAvailableDate": {
+      "date": "20.08.2026",
+      "timeZone": "Europe/Moscow",
+      "timestamp": 1787173200
+    }
+  }
+}

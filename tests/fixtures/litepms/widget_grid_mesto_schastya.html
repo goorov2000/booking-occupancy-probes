@@ -1,0 +1,126 @@
+<div class="widget-wrapper page-calendar">
+<div class="widget-list">
+<div class="widget-controls">
+</div>
+<h4 style="margin-top: 20px;">Календарь доступности</h4>
+<div class="date-form">
+<form action="/widget/calendar" method="get"><input type="hidden" name="sid" value="SID" />
+<input type="hidden" name="id" value="12001">
+<input type="hidden" name="wid" value="2172"><input type="hidden" name="mode" value="embed"><div class="form-row datein-input">
+<label>Выбрать дату:</label>
+<div class="input-wrapper"><input class="input date" type="text" required name="d" size="35" value="01-10-2026" readonly></div>
+</div>
+<div class="form-row submit-input">
+<input class="submit" type="submit" value="Показать">
+</div>
+<div class="form-row submit-input">
+<input class="submit back" type="button" value="Вернуться в список" onclick="location.href='/widget/search?id=12001&wid=2172&mode=embed&sid=SID&date_in=01-10-2026&date_out=02-10-2026&search=1'">
+</div>
+</form>
+</div>
+<div class="clear"></div>
+ <div class="info">Чтобы забронировать номер, выделите нужный период мышкой.</div><div class="calendar-nav"><span class="prev-info">предыдущие 30 / 7 дней</span><a class="prev30" href="/widget/calendar?id=12001&wid=2172&mode=embed&d=04-09-2026&sid=SID" title="30 дней назад"><<</a><a class="prev7" href="/widget/calendar?id=12001&wid=2172&mode=embed&d=24-09-2026&sid=SID" title="7 дней назад"><</a><a class="next7" href="/widget/calendar?id=12001&wid=2172&mode=embed&d=08-10-2026&sid=SID" title="7 дней вперед">></a><a class="next30" href="/widget/calendar?id=12001&wid=2172&mode=embed&d=31-10-2026&sid=SID" title="30 дней вперед">>></a><span class="next-info">следующие 7 / 30 дней</span></div>
+<div class="calendar-wrapper">
+  <div class="calendar-fixed">
+	<div class="calendar-fixed-top"></div>
+	<table class="table calendar-table calendar-table-fixed">
+	<thead>
+	  <tr><th class="month"><div class="month-wrap">&nbsp;</div></th></tr>
+	  <tr><th class="month"><div class="month-wrap">&nbsp;</div></th></tr>
+	  <tr><th class="rooms"><span class="bold">Номера</span></th></tr>
+	</thead>
+	<tbody>
+		  		<tr class="room">
+		<td class="firstcol"><div class="room-name-wrap"><span title="Gokötta с чаном" class="room-name"><a class="dashed" href="javascript:;" onclick="parentMessage({'action': 'iframe', 'src': 'room_info?id=12001&wid=2172&rid=75072'});">Gokötta с чаном</a></span></div></td>
+		</tr>
+			<tr class="room">
+		<td class="firstcol"><div class="room-name-wrap"><span title="Ogonblick" class="room-name"><a class="dashed" href="javascript:;" onclick="parentMessage({'action': 'iframe', 'src': 'room_info?id=12001&wid=2172&rid=76803'});">Ogonblick</a></span></div></td>
+		</tr>
+		</tbody>
+	</table>
+  </div>  
+  <div class="calendar-scrollable">
+	<div class="calendar-scrollable-top">
+	  <div class="calendar-scrollable-top-content"></div>
+	</div>
+	<div class="calendar-scrollable-bottom">	  
+	<table class="table calendar-table" id="calendar">
+	<thead>
+	<tr>
+																																<th colspan="15" class="month"><div class="month-wrap" title="Октябрь 2026">Октябрь 2026</div></th>
+		</tr>
+	<tr>
+		<th><div class="month-wrap">Чт</div></th>
+		<th><div class="month-wrap">Пт</div></th>
+		<th class="dayoff"><div class="month-wrap">Сб</div></th>
+		<th class="dayoff"><div class="month-wrap">Вс</div></th>
+		<th><div class="month-wrap">Пн</div></th>
+		<th><div class="month-wrap">Вт</div></th>
+		<th><div class="month-wrap">Ср</div></th>
+		<th><div class="month-wrap">Чт</div></th>
+		<th><div class="month-wrap">Пт</div></th>
+		<th class="dayoff"><div class="month-wrap">Сб</div></th>
+		<th class="dayoff"><div class="month-wrap">Вс</div></th>
+		<th><div class="month-wrap">Пн</div></th>
+		<th><div class="month-wrap">Вт</div></th>
+		<th><div class="month-wrap">Ср</div></th>
+		<th><div class="month-wrap">Чт</div></th>
+		</tr>
+	<tr class="dates">
+		<th>1</th>
+		<th>2</th>
+		<th class="dayoff">3</th>
+		<th class="dayoff">4</th>
+		<th>5</th>
+		<th>6</th>
+		<th>7</th>
+		<th>8</th>
+		<th>9</th>
+		<th class="dayoff">10</th>
+		<th class="dayoff">11</th>
+		<th>12</th>
+		<th>13</th>
+		<th>14</th>
+		<th>15</th>
+		</tr>
+	</thead>
+	<tbody>
+			<tr id="room75072" class="room">
+		<td title="Занято. 1 октября 2026, Чт" class="booking" data-id="r75072d1790798400b0">&nbsp;</td>
+		<td title="Свободно. 2 октября 2026, Пт" class="freeday end_booking" data-id="r75072d1790884800b0">&nbsp;</td>
+		<td title="Занято. 3 октября 2026, Сб" class="booking dayoff start_booking" data-id="r75072d1790971200b0">&nbsp;</td>
+		<td title="Свободно. 4 октября 2026, Вс" class="freeday dayoff end_booking" data-id="r75072d1791057600b0">&nbsp;</td>
+		<td title="Свободно. 5 октября 2026, Пн" class="freeday" data-id="r75072d1791144000b0">&nbsp;</td>
+		<td title="Свободно. 6 октября 2026, Вт" class="freeday" data-id="r75072d1791230400b0">&nbsp;</td>
+		<td title="Свободно. 7 октября 2026, Ср" class="freeday" data-id="r75072d1791316800b0">&nbsp;</td>
+		<td title="Свободно. 8 октября 2026, Чт" class="freeday" data-id="r75072d1791403200b0">&nbsp;</td>
+		<td title="Свободно. 9 октября 2026, Пт" class="freeday" data-id="r75072d1791489600b0">&nbsp;</td>
+		<td title="Свободно. 10 октября 2026, Сб" class="freeday dayoff" data-id="r75072d1791576000b0">&nbsp;</td>
+		<td title="Свободно. 11 октября 2026, Вс" class="freeday dayoff" data-id="r75072d1791662400b0">&nbsp;</td>
+		<td title="Свободно. 12 октября 2026, Пн" class="freeday" data-id="r75072d1791748800b0">&nbsp;</td>
+		<td title="Свободно. 13 октября 2026, Вт" class="freeday" data-id="r75072d1791835200b0">&nbsp;</td>
+		<td title="Свободно. 14 октября 2026, Ср" class="freeday" data-id="r75072d1791921600b0">&nbsp;</td>
+		<td title="Свободно. 15 октября 2026, Чт" class="freeday" data-id="r75072d1792008000b0">&nbsp;</td>
+		</tr>
+		<tr id="room76803" class="room">
+		<td title="Свободно. 1 октября 2026, Чт" class="freeday" data-id="r76803d1790798400b0">&nbsp;</td>
+		<td title="Свободно. 2 октября 2026, Пт" class="freeday" data-id="r76803d1790884800b0">&nbsp;</td>
+		<td title="Свободно. 3 октября 2026, Сб" class="freeday dayoff" data-id="r76803d1790971200b0">&nbsp;</td>
+		<td title="Занято. 4 октября 2026, Вс" class="booking dayoff start_booking" data-id="r76803d1791057600b0">&nbsp;</td>
+		<td title="Свободно. 5 октября 2026, Пн" class="freeday end_booking" data-id="r76803d1791144000b0">&nbsp;</td>
+		<td title="Свободно. 6 октября 2026, Вт" class="freeday" data-id="r76803d1791230400b0">&nbsp;</td>
+		<td title="Свободно. 7 октября 2026, Ср" class="freeday" data-id="r76803d1791316800b0">&nbsp;</td>
+		<td title="Свободно. 8 октября 2026, Чт" class="freeday" data-id="r76803d1791403200b0">&nbsp;</td>
+		<td title="Свободно. 9 октября 2026, Пт" class="freeday" data-id="r76803d1791489600b0">&nbsp;</td>
+		<td title="Свободно. 10 октября 2026, Сб" class="freeday dayoff" data-id="r76803d1791576000b0">&nbsp;</td>
+		<td title="Свободно. 11 октября 2026, Вс" class="freeday dayoff" data-id="r76803d1791662400b0">&nbsp;</td>
+		<td title="Свободно. 12 октября 2026, Пн" class="freeday" data-id="r76803d1791748800b0">&nbsp;</td>
+		<td title="Свободно. 13 октября 2026, Вт" class="freeday" data-id="r76803d1791835200b0">&nbsp;</td>
+		<td title="Свободно. 14 октября 2026, Ср" class="freeday" data-id="r76803d1791921600b0">&nbsp;</td>
+		<td title="Свободно. 15 октября 2026, Чт" class="freeday" data-id="r76803d1792008000b0">&nbsp;</td>
+		</tr>
+		</tbody>
+	</table>
+	</div>
+  </div>
+</div>

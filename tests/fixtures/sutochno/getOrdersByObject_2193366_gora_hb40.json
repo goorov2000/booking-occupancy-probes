@@ -1,0 +1,40 @@
+{
+ "success": true,
+ "data": {
+  "calendars": [
+   {
+    "date_begin": "2026-12-30 15:00:00",
+    "date_end": "2027-09-06 12:00:00",
+    "type": "cs-navail",
+    "id": 596847563,
+    "object_id": 2193366
+   },
+   {
+    "date_begin": "2026-09-26 15:00:00",
+    "date_end": "2026-09-27 12:00:00",
+    "type": "cs-navail",
+    "id": 596091862,
+    "object_id": 2193366
+   },
+   {
+    "date_begin": "2026-09-18 15:00:00",
+    "date_end": "2026-09-22 12:00:00",
+    "type": "cs-navail",
+    "id": 596187810,
+    "object_id": 2193366
+   },
+   {
+    "date_begin": "2026-09-10 15:00:00",
+    "date_end": "2026-09-14 12:00:00",
+    "type": "cs-navail",
+    "id": 593928365,
+    "object_id": 2193366
+   }
+  ]
+ },
+ "errors": [],
+ "actions": [],
+ "platform": null,
+ "uuid": null,
+ "timestamp": 1788816338
+}

@@ -1,0 +1,17 @@
+[Unit]
+# Витрина: пути ниже — плейсхолдеры (/home/<user>/booking-occupancy-probes);
+# OnFailure=cf-alert@ ссылается на уведомитель внешнего контура, в репозиторий не входит.
+# Публикация двух страниц глэмпингов по постоянным ссылкам после утреннего
+# прогона cf-occupancy. Отдельный юнит, потому что публикация — единственный
+# шаг контура, которому нужна агентская сессия (см. publish_pages.sh).
+Description=CF: публикация страниц загрузки глэмпингов (user)
+After=network-online.target cf-occupancy.service
+OnFailure=cf-alert@%n.service
+
+[Service]
+Type=oneshot
+WorkingDirectory=/home/<user>/booking-occupancy-probes
+Environment=PATH=/home/<user>/.local/bin:/usr/local/bin:/usr/bin:/bin
+Nice=10
+TimeoutStartSec=15min
+ExecStart=/home/<user>/booking-occupancy-probes/occupancy/publish_pages.sh

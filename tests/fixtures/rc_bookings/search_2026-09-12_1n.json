@@ -1,0 +1,28 @@
+{
+ "apartments": [
+  {
+   "id": 166848,
+   "title": "озеро дом 1",
+   "price": 11000,
+   "humans": 4,
+   "sleeps": "2+2",
+   "rooms": 2
+  },
+  {
+   "id": 166851,
+   "title": "озеро дом 2",
+   "price": 11000,
+   "humans": 4,
+   "sleeps": "2+2",
+   "rooms": 2
+  },
+  {
+   "id": 194974,
+   "title": "дом 3",
+   "price": 16000,
+   "humans": 9,
+   "sleeps": "2+2+2+2+1",
+   "rooms": 1
+  }
+ ]
+}

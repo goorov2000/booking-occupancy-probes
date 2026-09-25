@@ -1,0 +1,12 @@
+{
+ "success": false,
+ "data": [],
+ "errors": [
+  "Application authentication failed"
+ ],
+ "actions": {
+  "need_update_token": true
+ },
+ "platform": "js",
+ "uuid": null
+}

@@ -1,0 +1,30 @@
+{
+ "color": "#4bae4f",
+ "url": "https://realtycalendar.ru/booking-widget/a821b1678f24008617bd63de64618795",
+ "is_prepaid": true,
+ "fio": "Zagorod",
+ "address": "Самарская область",
+ "is_frame": false,
+ "is_enabled_prepaid": true,
+ "prepaid": 5,
+ "agency_name": "ЗАгород",
+ "agency_currency": "₽",
+ "check_in_rule": {
+  "check_in_time_start": [
+   "15",
+   "00"
+  ],
+  "check_in_time_end": [
+   "21",
+   "00"
+  ],
+  "check_out_time_start": [
+   "12",
+   "00"
+  ],
+  "check_out_time_end": [
+   "12",
+   "00"
+  ]
+ }
+}

@@ -1,0 +1,34 @@
+{
+  "username": "obj_gap",
+  "site": "https://example.com/obj_gap",
+  "engine": "bnovo",
+  "source_kind": "module",
+  "granularity": "per_unit",
+  "units": {
+    "Шатёр": {
+      "2026-08-13": {
+        "state": "free",
+        "price": 7000
+      },
+      "2026-08-14": {
+        "state": "free",
+        "price": 7500
+      },
+      "2026-08-15": {
+        "state": "sales_not_open"
+      },
+      "2026-08-16": {
+        "state": "sales_not_open"
+      },
+      "2026-08-17": {
+        "state": "sales_not_open"
+      }
+    }
+  },
+  "checked_at": "2026-08-13T06:30:00+03:00",
+  "status": "ok",
+  "reason": "",
+  "source_urls": [
+    "https://example.com/obj_gap/widget"
+  ]
+}

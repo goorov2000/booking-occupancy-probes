@@ -1,0 +1,110 @@
+[
+ {
+  "availableCount": 5,
+  "accommodation": {
+   "mainOccupancy": 0,
+   "additionalOccupancy": 0,
+   "mainAccommodation": 1,
+   "additionalAccommodation": 0,
+   "searchedAdultsCount": 1,
+   "searchedChildrenCount": 0,
+   "childrenAccommodation": [],
+   "accommodationPrices": null,
+   "prices": [
+    {
+     "restrictionsRecommendations": null,
+     "additionalPrice": {
+      "roubles": 0,
+      "copecks": 0
+     },
+     "childrenAsAdultOnMainPlace": [],
+     "childrenAsAdultOnAdditionalPlace": [],
+     "childrenOnMainPlace": [],
+     "childrenOnAdditionalPlace": [],
+     "childrenWithoutPlace": [],
+     "adultOnMainPlace": 1,
+     "adultOnAdditionalPlace": 0,
+     "totalAdultOnMainPlace": 1,
+     "totalAdultOnAdditionalPlace": 0,
+     "adultOccupancy": 1,
+     "childrenOccupancy": 0,
+     "totalAdultCount": 1,
+     "totalChildrenCount": 0,
+     "rateId": "0bd48732-3c64-49b2-8989-34cda2a5e4f1",
+     "price": {
+      "roubles": 17000,
+      "copecks": 0
+     },
+     "prepaymentSum": {
+      "roubles": 17000,
+      "copecks": 0
+     },
+     "cancellationPenaltySum": {
+      "roubles": 17000,
+      "copecks": 0
+     }
+    }
+   ]
+  },
+  "rateId": null,
+  "dateFrom": "2026-09-12T00:00:00",
+  "dateTo": "2026-09-13T00:00:00",
+  "adultsCount": 1,
+  "children": [],
+  "roomCategoryId": "c0c87477-7bf8-423e-bab9-f4717d7cf8e3"
+ },
+ {
+  "availableCount": 2,
+  "accommodation": {
+   "mainOccupancy": 0,
+   "additionalOccupancy": 0,
+   "mainAccommodation": 1,
+   "additionalAccommodation": 0,
+   "searchedAdultsCount": 1,
+   "searchedChildrenCount": 0,
+   "childrenAccommodation": [],
+   "accommodationPrices": null,
+   "prices": [
+    {
+     "restrictionsRecommendations": null,
+     "additionalPrice": {
+      "roubles": 0,
+      "copecks": 0
+     },
+     "childrenAsAdultOnMainPlace": [],
+     "childrenAsAdultOnAdditionalPlace": [],
+     "childrenOnMainPlace": [],
+     "childrenOnAdditionalPlace": [],
+     "childrenWithoutPlace": [],
+     "adultOnMainPlace": 1,
+     "adultOnAdditionalPlace": 0,
+     "totalAdultOnMainPlace": 1,
+     "totalAdultOnAdditionalPlace": 0,
+     "adultOccupancy": 1,
+     "childrenOccupancy": 0,
+     "totalAdultCount": 1,
+     "totalChildrenCount": 0,
+     "rateId": "0bd48732-3c64-49b2-8989-34cda2a5e4f1",
+     "price": {
+      "roubles": 22000,
+      "copecks": 0
+     },
+     "prepaymentSum": {
+      "roubles": 22000,
+      "copecks": 0
+     },
+     "cancellationPenaltySum": {
+      "roubles": 22000,
+      "copecks": 0
+     }
+    }
+   ]
+  },
+  "rateId": null,
+  "dateFrom": "2026-09-12T00:00:00",
+  "dateTo": "2026-09-13T00:00:00",
+  "adultsCount": 1,
+  "children": [],
+  "roomCategoryId": "3c0229ed-67e8-4438-8a98-9157c148fd96"
+ }
+]

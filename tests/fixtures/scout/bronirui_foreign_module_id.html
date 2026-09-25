@@ -1,0 +1,14 @@
+<!-- СИНТЕТИЧЕСКАЯ фикстура: чужой moduleId ДО виджета «Бронируй Онлайн».
+     Разбор ревью волны 1: счётчики и а/б-скрипты несут своё поле moduleId,
+     и непривязанная регулярка брала первое совпадение на странице. -->
+<html><body>
+<script>var analytics={moduleId: 99, project: "site"};</script>
+<script src="//widget.bronirui-online.ru/js/app.js"></script>
+<div id="znms-widget-1"></div>
+<script>
+window.znmsWidget.init('#znms-widget-1', {
+    moduleId: 7032,
+    index: 0
+});
+</script>
+</body></html>

@@ -1,0 +1,13 @@
+<!-- СИНТЕТИЧЕСКАЯ фикстура: ЧУЖОЙ "token" на странице ДО виджета HomeReserve.
+     Собрана по разбору ревью волны 1: у сайтов на Tilda в теле страницы почти
+     всегда лежит посторонний JSON с ключом token (форма обратной связи), и
+     непривязанная регулярка уносила в рецепт именно его. -->
+<html><body>
+<script>window.tildaForm={"token":"a1b2c3d4e5","formid":"form123"};</script>
+<div id="rec1">текст страницы</div>
+<div id="hr-widget"></div>
+<script type="module" src="https://homereserve.ru/widget.js"></script>
+<script type="module">
+    window.homereserve.initWidgetSearch({"token":"Sh0gLTkBgP","apartments":[71049,89311],"tag":"mainpage"})
+</script>
+</body></html>

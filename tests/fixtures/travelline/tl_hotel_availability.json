@@ -1,0 +1,279 @@
+{
+ "room_stays": [
+  {
+   "hotel_ref": {
+    "code": "11269"
+   },
+   "room_types": [
+    {
+     "code": "128542",
+     "limited_inventory_count": 2
+    }
+   ]
+  },
+  {
+   "hotel_ref": {
+    "code": "11269"
+   },
+   "room_types": [
+    {
+     "code": "128542",
+     "limited_inventory_count": 2
+    }
+   ]
+  },
+  {
+   "hotel_ref": {
+    "code": "11269"
+   },
+   "room_types": [
+    {
+     "code": "128542",
+     "limited_inventory_count": 2
+    }
+   ]
+  },
+  {
+   "hotel_ref": {
+    "code": "11269"
+   },
+   "room_types": [
+    {
+     "code": "128542",
+     "limited_inventory_count": 2
+    }
+   ]
+  },
+  {
+   "hotel_ref": {
+    "code": "11269"
+   },
+   "room_types": [
+    {
+     "code": "77171",
+     "limited_inventory_count": 1
+    }
+   ]
+  },
+  {
+   "hotel_ref": {
+    "code": "11269"
+   },
+   "room_types": [
+    {
+     "code": "77171",
+     "limited_inventory_count": 1
+    }
+   ]
+  },
+  {
+   "hotel_ref": {
+    "code": "11269"
+   },
+   "room_types": [
+    {
+     "code": "235774",
+     "limited_inventory_count": 1
+    }
+   ]
+  },
+  {
+   "hotel_ref": {
+    "code": "11269"
+   },
+   "room_types": [
+    {
+     "code": "235774",
+     "limited_inventory_count": 1
+    }
+   ]
+  },
+  {
+   "hotel_ref": {
+    "code": "11269"
+   },
+   "room_types": [
+    {
+     "code": "77168",
+     "limited_inventory_count": 1
+    }
+   ]
+  },
+  {
+   "hotel_ref": {
+    "code": "11269"
+   },
+   "room_types": [
+    {
+     "code": "77168",
+     "limited_inventory_count": 1
+    }
+   ]
+  },
+  {
+   "hotel_ref": {
+    "code": "11269"
+   },
+   "room_types": [
+    {
+     "code": "352652",
+     "limited_inventory_count": 1
+    }
+   ]
+  },
+  {
+   "hotel_ref": {
+    "code": "11269"
+   },
+   "room_types": [
+    {
+     "code": "352652",
+     "limited_inventory_count": 1
+    }
+   ]
+  },
+  {
+   "hotel_ref": {
+    "code": "11269"
+   },
+   "room_types": [
+    {
+     "code": "352652",
+     "limited_inventory_count": 1
+    }
+   ]
+  },
+  {
+   "hotel_ref": {
+    "code": "11269"
+   },
+   "room_types": [
+    {
+     "code": "352652",
+     "limited_inventory_count": 1
+    }
+   ]
+  },
+  {
+   "hotel_ref": {
+    "code": "11269"
+   },
+   "room_types": [
+    {
+     "code": "95929",
+     "limited_inventory_count": 1
+    }
+   ]
+  },
+  {
+   "hotel_ref": {
+    "code": "11269"
+   },
+   "room_types": [
+    {
+     "code": "95929",
+     "limited_inventory_count": 1
+    }
+   ]
+  },
+  {
+   "hotel_ref": {
+    "code": "11269"
+   },
+   "room_types": [
+    {
+     "code": "95929",
+     "limited_inventory_count": 1
+    }
+   ]
+  },
+  {
+   "hotel_ref": {
+    "code": "11269"
+   },
+   "room_types": [
+    {
+     "code": "77169"
+    }
+   ]
+  },
+  {
+   "hotel_ref": {
+    "code": "11269"
+   },
+   "room_types": [
+    {
+     "code": "77169"
+    }
+   ]
+  },
+  {
+   "hotel_ref": {
+    "code": "11269"
+   },
+   "room_types": [
+    {
+     "code": "77170",
+     "limited_inventory_count": 1
+    }
+   ]
+  },
+  {
+   "hotel_ref": {
+    "code": "11269"
+   },
+   "room_types": [
+    {
+     "code": "77170",
+     "limited_inventory_count": 1
+    }
+   ]
+  },
+  {
+   "hotel_ref": {
+    "code": "11269"
+   },
+   "room_types": [
+    {
+     "code": "77170",
+     "limited_inventory_count": 1
+    }
+   ]
+  },
+  {
+   "hotel_ref": {
+    "code": "11269"
+   },
+   "room_types": [
+    {
+     "code": "77172",
+     "limited_inventory_count": 1
+    }
+   ]
+  },
+  {
+   "hotel_ref": {
+    "code": "11269"
+   },
+   "room_types": [
+    {
+     "code": "77172",
+     "limited_inventory_count": 1
+    }
+   ]
+  },
+  {
+   "hotel_ref": {
+    "code": "11269"
+   },
+   "room_types": [
+    {
+     "code": "77172",
+     "limited_inventory_count": 1
+    }
+   ]
+  }
+ ],
+ "errors": null,
+ "warnings": []
+}

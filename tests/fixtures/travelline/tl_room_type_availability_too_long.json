@@ -1,0 +1,11 @@
+{
+ "room_type_availability": [],
+ "errors": [
+  {
+   "error_code": "320",
+   "lang": "en",
+   "message": "max 360 days period is allowed in single request",
+   "location": "criterions"
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "run_id": "2026-08-12-0630",
+  "started_at": "2026-08-12T06:30:00+03:00",
+  "targets": [
+    "obj_gap",
+    "obj_home",
+    "obj_type"
+  ],
+  "objects_written": 2,
+  "finished_at": "2026-09-04T12:39:20+03:00"
+}

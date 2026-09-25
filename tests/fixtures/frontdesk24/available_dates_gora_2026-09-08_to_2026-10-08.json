@@ -1,0 +1,689 @@
+{
+ "data": [
+  {
+   "roomCategoryID": 52211,
+   "date": "2026-09-08",
+   "price": 110000.0
+  },
+  {
+   "roomCategoryID": 52211,
+   "date": "2026-09-09",
+   "price": 110000.0
+  },
+  {
+   "roomCategoryID": 52211,
+   "date": "2026-09-10",
+   "price": 110000.0
+  },
+  {
+   "roomCategoryID": 52211,
+   "date": "2026-09-11",
+   "price": 130000.0
+  },
+  {
+   "roomCategoryID": 52211,
+   "date": "2026-09-12",
+   "price": 130000.0
+  },
+  {
+   "roomCategoryID": 52211,
+   "date": "2026-09-13",
+   "price": 110000.0
+  },
+  {
+   "roomCategoryID": 52211,
+   "date": "2026-09-14",
+   "price": 110000.0
+  },
+  {
+   "roomCategoryID": 52211,
+   "date": "2026-09-15",
+   "price": 110000.0
+  },
+  {
+   "roomCategoryID": 52211,
+   "date": "2026-09-16",
+   "price": 110000.0
+  },
+  {
+   "roomCategoryID": 52211,
+   "date": "2026-09-17",
+   "price": 110000.0
+  },
+  {
+   "roomCategoryID": 52211,
+   "date": "2026-09-18",
+   "price": 130000.0
+  },
+  {
+   "roomCategoryID": 52211,
+   "date": "2026-09-19",
+   "price": 130000.0
+  },
+  {
+   "roomCategoryID": 52211,
+   "date": "2026-09-20",
+   "price": 110000.0
+  },
+  {
+   "roomCategoryID": 52211,
+   "date": "2026-09-21",
+   "price": 110000.0
+  },
+  {
+   "roomCategoryID": 52211,
+   "date": "2026-09-22",
+   "price": 110000.0
+  },
+  {
+   "roomCategoryID": 52211,
+   "date": "2026-09-23",
+   "price": 110000.0
+  },
+  {
+   "roomCategoryID": 52211,
+   "date": "2026-09-24",
+   "price": 110000.0
+  },
+  {
+   "roomCategoryID": 52211,
+   "date": "2026-09-25",
+   "price": 130000.0
+  },
+  {
+   "roomCategoryID": 52211,
+   "date": "2026-09-26",
+   "price": 130000.0
+  },
+  {
+   "roomCategoryID": 52211,
+   "date": "2026-09-27",
+   "price": 110000.0
+  },
+  {
+   "roomCategoryID": 52211,
+   "date": "2026-09-28",
+   "price": 110000.0
+  },
+  {
+   "roomCategoryID": 52211,
+   "date": "2026-09-29",
+   "price": 110000.0
+  },
+  {
+   "roomCategoryID": 52211,
+   "date": "2026-09-30",
+   "price": 110000.0
+  },
+  {
+   "roomCategoryID": 52211,
+   "date": "2026-10-01",
+   "price": 110000.0
+  },
+  {
+   "roomCategoryID": 52211,
+   "date": "2026-10-02",
+   "price": 110000.0
+  },
+  {
+   "roomCategoryID": 52211,
+   "date": "2026-10-03",
+   "price": 110000.0
+  },
+  {
+   "roomCategoryID": 52211,
+   "date": "2026-10-04",
+   "price": 110000.0
+  },
+  {
+   "roomCategoryID": 52211,
+   "date": "2026-10-05",
+   "price": 110000.0
+  },
+  {
+   "roomCategoryID": 52211,
+   "date": "2026-10-06",
+   "price": 110000.0
+  },
+  {
+   "roomCategoryID": 52211,
+   "date": "2026-10-07",
+   "price": 110000.0
+  },
+  {
+   "roomCategoryID": 52211,
+   "date": "2026-10-08",
+   "price": 110000.0
+  },
+  {
+   "roomCategoryID": 52212,
+   "date": "2026-09-08",
+   "price": 25000.0
+  },
+  {
+   "roomCategoryID": 52212,
+   "date": "2026-09-09",
+   "price": 25000.0
+  },
+  {
+   "roomCategoryID": 52212,
+   "date": "2026-09-14",
+   "price": 25000.0
+  },
+  {
+   "roomCategoryID": 52212,
+   "date": "2026-09-15",
+   "price": 25000.0
+  },
+  {
+   "roomCategoryID": 52212,
+   "date": "2026-09-16",
+   "price": 25000.0
+  },
+  {
+   "roomCategoryID": 52212,
+   "date": "2026-09-17",
+   "price": 25000.0
+  },
+  {
+   "roomCategoryID": 52212,
+   "date": "2026-09-18",
+   "price": 25000.0
+  },
+  {
+   "roomCategoryID": 52212,
+   "date": "2026-09-19",
+   "price": 25000.0
+  },
+  {
+   "roomCategoryID": 52212,
+   "date": "2026-09-20",
+   "price": 25000.0
+  },
+  {
+   "roomCategoryID": 52212,
+   "date": "2026-09-21",
+   "price": 25000.0
+  },
+  {
+   "roomCategoryID": 52212,
+   "date": "2026-09-22",
+   "price": 25000.0
+  },
+  {
+   "roomCategoryID": 52212,
+   "date": "2026-09-23",
+   "price": 25000.0
+  },
+  {
+   "roomCategoryID": 52212,
+   "date": "2026-09-24",
+   "price": 25000.0
+  },
+  {
+   "roomCategoryID": 52212,
+   "date": "2026-09-25",
+   "price": 25000.0
+  },
+  {
+   "roomCategoryID": 52212,
+   "date": "2026-09-26",
+   "price": 25000.0
+  },
+  {
+   "roomCategoryID": 52212,
+   "date": "2026-09-27",
+   "price": 25000.0
+  },
+  {
+   "roomCategoryID": 52212,
+   "date": "2026-09-28",
+   "price": 25000.0
+  },
+  {
+   "roomCategoryID": 52212,
+   "date": "2026-09-29",
+   "price": 25000.0
+  },
+  {
+   "roomCategoryID": 52212,
+   "date": "2026-09-30",
+   "price": 25000.0
+  },
+  {
+   "roomCategoryID": 52212,
+   "date": "2026-10-01",
+   "price": 25000.0
+  },
+  {
+   "roomCategoryID": 52212,
+   "date": "2026-10-02",
+   "price": 25000.0
+  },
+  {
+   "roomCategoryID": 52212,
+   "date": "2026-10-03",
+   "price": 25000.0
+  },
+  {
+   "roomCategoryID": 52212,
+   "date": "2026-10-04",
+   "price": 25000.0
+  },
+  {
+   "roomCategoryID": 52212,
+   "date": "2026-10-05",
+   "price": 25000.0
+  },
+  {
+   "roomCategoryID": 52212,
+   "date": "2026-10-06",
+   "price": 25000.0
+  },
+  {
+   "roomCategoryID": 52212,
+   "date": "2026-10-07",
+   "price": 25000.0
+  },
+  {
+   "roomCategoryID": 52212,
+   "date": "2026-10-08",
+   "price": 25000.0
+  },
+  {
+   "roomCategoryID": 52626,
+   "date": "2026-09-08",
+   "price": 8200.0
+  },
+  {
+   "roomCategoryID": 52626,
+   "date": "2026-09-09",
+   "price": 8200.0
+  },
+  {
+   "roomCategoryID": 52626,
+   "date": "2026-09-10",
+   "price": 8200.0
+  },
+  {
+   "roomCategoryID": 52626,
+   "date": "2026-09-11",
+   "price": 8900.0
+  },
+  {
+   "roomCategoryID": 52626,
+   "date": "2026-09-12",
+   "price": 8900.0
+  },
+  {
+   "roomCategoryID": 52626,
+   "date": "2026-09-13",
+   "price": 8200.0
+  },
+  {
+   "roomCategoryID": 52626,
+   "date": "2026-09-14",
+   "price": 8200.0
+  },
+  {
+   "roomCategoryID": 52626,
+   "date": "2026-09-15",
+   "price": 8200.0
+  },
+  {
+   "roomCategoryID": 52626,
+   "date": "2026-09-16",
+   "price": 8200.0
+  },
+  {
+   "roomCategoryID": 52626,
+   "date": "2026-09-17",
+   "price": 8200.0
+  },
+  {
+   "roomCategoryID": 52626,
+   "date": "2026-09-18",
+   "price": 8900.0
+  },
+  {
+   "roomCategoryID": 52626,
+   "date": "2026-09-19",
+   "price": 8900.0
+  },
+  {
+   "roomCategoryID": 52626,
+   "date": "2026-09-20",
+   "price": 8200.0
+  },
+  {
+   "roomCategoryID": 52626,
+   "date": "2026-09-21",
+   "price": 8200.0
+  },
+  {
+   "roomCategoryID": 52626,
+   "date": "2026-09-22",
+   "price": 8200.0
+  },
+  {
+   "roomCategoryID": 52626,
+   "date": "2026-09-23",
+   "price": 8200.0
+  },
+  {
+   "roomCategoryID": 52626,
+   "date": "2026-09-24",
+   "price": 8200.0
+  },
+  {
+   "roomCategoryID": 52626,
+   "date": "2026-09-25",
+   "price": 8900.0
+  },
+  {
+   "roomCategoryID": 52626,
+   "date": "2026-09-26",
+   "price": 8900.0
+  },
+  {
+   "roomCategoryID": 52626,
+   "date": "2026-09-27",
+   "price": 8200.0
+  },
+  {
+   "roomCategoryID": 52626,
+   "date": "2026-09-28",
+   "price": 8200.0
+  },
+  {
+   "roomCategoryID": 52626,
+   "date": "2026-09-29",
+   "price": 8200.0
+  },
+  {
+   "roomCategoryID": 52626,
+   "date": "2026-09-30",
+   "price": 8200.0
+  },
+  {
+   "roomCategoryID": 52626,
+   "date": "2026-10-01",
+   "price": 6200.0
+  },
+  {
+   "roomCategoryID": 52626,
+   "date": "2026-10-02",
+   "price": 7600.0
+  },
+  {
+   "roomCategoryID": 52626,
+   "date": "2026-10-03",
+   "price": 7600.0
+  },
+  {
+   "roomCategoryID": 52626,
+   "date": "2026-10-04",
+   "price": 6200.0
+  },
+  {
+   "roomCategoryID": 52626,
+   "date": "2026-10-05",
+   "price": 6200.0
+  },
+  {
+   "roomCategoryID": 52626,
+   "date": "2026-10-06",
+   "price": 6200.0
+  },
+  {
+   "roomCategoryID": 52626,
+   "date": "2026-10-07",
+   "price": 6200.0
+  },
+  {
+   "roomCategoryID": 52626,
+   "date": "2026-10-08",
+   "price": 6200.0
+  },
+  {
+   "roomCategoryID": 53924,
+   "date": "2026-09-08",
+   "price": 16000.0
+  },
+  {
+   "roomCategoryID": 53924,
+   "date": "2026-09-09",
+   "price": 16000.0
+  },
+  {
+   "roomCategoryID": 53924,
+   "date": "2026-09-14",
+   "price": 16000.0
+  },
+  {
+   "roomCategoryID": 53924,
+   "date": "2026-09-15",
+   "price": 16000.0
+  },
+  {
+   "roomCategoryID": 53924,
+   "date": "2026-09-16",
+   "price": 16000.0
+  },
+  {
+   "roomCategoryID": 53924,
+   "date": "2026-09-17",
+   "price": 16000.0
+  },
+  {
+   "roomCategoryID": 53924,
+   "date": "2026-09-18",
+   "price": 16000.0
+  },
+  {
+   "roomCategoryID": 53924,
+   "date": "2026-09-19",
+   "price": 16000.0
+  },
+  {
+   "roomCategoryID": 53924,
+   "date": "2026-09-20",
+   "price": 16000.0
+  },
+  {
+   "roomCategoryID": 53924,
+   "date": "2026-09-21",
+   "price": 16000.0
+  },
+  {
+   "roomCategoryID": 53924,
+   "date": "2026-09-22",
+   "price": 16000.0
+  },
+  {
+   "roomCategoryID": 53924,
+   "date": "2026-09-23",
+   "price": 16000.0
+  },
+  {
+   "roomCategoryID": 53924,
+   "date": "2026-09-24",
+   "price": 16000.0
+  },
+  {
+   "roomCategoryID": 53924,
+   "date": "2026-09-25",
+   "price": 16000.0
+  },
+  {
+   "roomCategoryID": 53924,
+   "date": "2026-09-26",
+   "price": 16000.0
+  },
+  {
+   "roomCategoryID": 53924,
+   "date": "2026-09-27",
+   "price": 16000.0
+  },
+  {
+   "roomCategoryID": 53924,
+   "date": "2026-09-28",
+   "price": 16000.0
+  },
+  {
+   "roomCategoryID": 53924,
+   "date": "2026-09-29",
+   "price": 16000.0
+  },
+  {
+   "roomCategoryID": 53924,
+   "date": "2026-09-30",
+   "price": 16000.0
+  },
+  {
+   "roomCategoryID": 53924,
+   "date": "2026-10-02",
+   "price": 16000.0
+  },
+  {
+   "roomCategoryID": 53924,
+   "date": "2026-10-03",
+   "price": 16000.0
+  },
+  {
+   "roomCategoryID": 53924,
+   "date": "2026-10-04",
+   "price": 16000.0
+  },
+  {
+   "roomCategoryID": 53924,
+   "date": "2026-10-05",
+   "price": 16000.0
+  },
+  {
+   "roomCategoryID": 53924,
+   "date": "2026-10-06",
+   "price": 16000.0
+  },
+  {
+   "roomCategoryID": 53924,
+   "date": "2026-10-07",
+   "price": 16000.0
+  },
+  {
+   "roomCategoryID": 53924,
+   "date": "2026-10-08",
+   "price": 16000.0
+  },
+  {
+   "roomCategoryID": 54654,
+   "date": "2026-09-08",
+   "price": 20000.0
+  },
+  {
+   "roomCategoryID": 54654,
+   "date": "2026-09-09",
+   "price": 20000.0
+  },
+  {
+   "roomCategoryID": 54654,
+   "date": "2026-09-14",
+   "price": 20000.0
+  },
+  {
+   "roomCategoryID": 54654,
+   "date": "2026-09-15",
+   "price": 20000.0
+  },
+  {
+   "roomCategoryID": 54654,
+   "date": "2026-09-16",
+   "price": 20000.0
+  },
+  {
+   "roomCategoryID": 54654,
+   "date": "2026-09-17",
+   "price": 20000.0
+  },
+  {
+   "roomCategoryID": 54654,
+   "date": "2026-09-22",
+   "price": 20000.0
+  },
+  {
+   "roomCategoryID": 54654,
+   "date": "2026-09-23",
+   "price": 20000.0
+  },
+  {
+   "roomCategoryID": 54654,
+   "date": "2026-09-24",
+   "price": 20000.0
+  },
+  {
+   "roomCategoryID": 54654,
+   "date": "2026-09-25",
+   "price": 20000.0
+  },
+  {
+   "roomCategoryID": 54654,
+   "date": "2026-09-27",
+   "price": 20000.0
+  },
+  {
+   "roomCategoryID": 54654,
+   "date": "2026-09-28",
+   "price": 20000.0
+  },
+  {
+   "roomCategoryID": 54654,
+   "date": "2026-09-29",
+   "price": 20000.0
+  },
+  {
+   "roomCategoryID": 54654,
+   "date": "2026-09-30",
+   "price": 20000.0
+  },
+  {
+   "roomCategoryID": 54654,
+   "date": "2026-10-01",
+   "price": 20000.0
+  },
+  {
+   "roomCategoryID": 54654,
+   "date": "2026-10-02",
+   "price": 20000.0
+  },
+  {
+   "roomCategoryID": 54654,
+   "date": "2026-10-03",
+   "price": 20000.0
+  },
+  {
+   "roomCategoryID": 54654,
+   "date": "2026-10-04",
+   "price": 20000.0
+  },
+  {
+   "roomCategoryID": 54654,
+   "date": "2026-10-05",
+   "price": 20000.0
+  },
+  {
+   "roomCategoryID": 54654,
+   "date": "2026-10-06",
+   "price": 20000.0
+  },
+  {
+   "roomCategoryID": 54654,
+   "date": "2026-10-07",
+   "price": 20000.0
+  },
+  {
+   "roomCategoryID": 54654,
+   "date": "2026-10-08",
+   "price": 20000.0
+  }
+ ]
+}

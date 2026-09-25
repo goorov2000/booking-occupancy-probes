@@ -1,0 +1,163 @@
+{
+ "data": [
+  [
+   {
+    "id": 52211,
+    "name": "Вилла",
+    "availableRooms": 1,
+    "availableBeds": 0,
+    "roomArea": 434.0,
+    "mainBeds": 4,
+    "extraBeds": 2,
+    "withoutBeds": 0,
+    "allowConnectBeds": 0
+   },
+   {
+    "id": 52212,
+    "name": "Хаусбот 45",
+    "availableRooms": 1,
+    "availableBeds": 0,
+    "roomArea": 45.0,
+    "mainBeds": 4,
+    "extraBeds": 2,
+    "withoutBeds": 0,
+    "allowConnectBeds": 0
+   },
+   {
+    "id": 52626,
+    "name": "Стандарт",
+    "availableRooms": 40,
+    "availableBeds": 0,
+    "roomArea": 20.0,
+    "mainBeds": 2,
+    "extraBeds": 1,
+    "withoutBeds": 0,
+    "allowConnectBeds": 0
+   },
+   {
+    "id": 53924,
+    "name": "Хаусбот-мини",
+    "availableRooms": 1,
+    "availableBeds": 0,
+    "roomArea": 35.0,
+    "mainBeds": 2,
+    "extraBeds": 0,
+    "withoutBeds": 0,
+    "allowConnectBeds": 0
+   },
+   {
+    "id": 54654,
+    "name": "Хаусбот 40",
+    "availableRooms": 1,
+    "availableBeds": 0,
+    "roomArea": 40.0,
+    "mainBeds": 4,
+    "extraBeds": 2,
+    "withoutBeds": 0,
+    "allowConnectBeds": 0
+   }
+  ],
+  [
+   {
+    "roomCategoryID": 52211,
+    "roomCategoryOptionID": 1
+   },
+   {
+    "roomCategoryID": 52211,
+    "roomCategoryOptionID": 3
+   },
+   {
+    "roomCategoryID": 52211,
+    "roomCategoryOptionID": 4
+   }
+  ],
+  [
+   {
+    "id": 83720,
+    "name": "Стандартный",
+    "isPromotion": false,
+    "description": "Стандартный тариф",
+    "image": null
+   }
+  ],
+  [],
+  [],
+  [
+   {
+    "roomCategoryID": 52626,
+    "tariffID": 83720,
+    "isPromotion": false,
+    "bedPlace": false,
+    "accmdId": 129805,
+    "accmdName": "Основное",
+    "price": 8200.0,
+    "currency": "RUB",
+    "priceRub": 8200.0,
+    "amountOfAdults": 1,
+    "countGuestsOnMainAccmd": 1,
+    "countGuestsOnExtraAccmd": 0,
+    "countGuestsOnWithoutBed": 0
+   },
+   {
+    "roomCategoryID": 53924,
+    "tariffID": 83720,
+    "isPromotion": false,
+    "bedPlace": false,
+    "accmdId": 129805,
+    "accmdName": "Основное",
+    "price": 16000.0,
+    "currency": "RUB",
+    "priceRub": 16000.0,
+    "amountOfAdults": 1,
+    "countGuestsOnMainAccmd": 1,
+    "countGuestsOnExtraAccmd": 0,
+    "countGuestsOnWithoutBed": 0
+   },
+   {
+    "roomCategoryID": 54654,
+    "tariffID": 83720,
+    "isPromotion": false,
+    "bedPlace": false,
+    "accmdId": 129805,
+    "accmdName": "Основное",
+    "price": 20000.0,
+    "currency": "RUB",
+    "priceRub": 20000.0,
+    "amountOfAdults": 1,
+    "countGuestsOnMainAccmd": 1,
+    "countGuestsOnExtraAccmd": 0,
+    "countGuestsOnWithoutBed": 0
+   },
+   {
+    "roomCategoryID": 52212,
+    "tariffID": 83720,
+    "isPromotion": false,
+    "bedPlace": false,
+    "accmdId": 129805,
+    "accmdName": "Основное",
+    "price": 25000.0,
+    "currency": "RUB",
+    "priceRub": 25000.0,
+    "amountOfAdults": 1,
+    "countGuestsOnMainAccmd": 1,
+    "countGuestsOnExtraAccmd": 0,
+    "countGuestsOnWithoutBed": 0
+   },
+   {
+    "roomCategoryID": 52211,
+    "tariffID": 83720,
+    "isPromotion": false,
+    "bedPlace": false,
+    "accmdId": 129805,
+    "accmdName": "Основное",
+    "price": 110000.0,
+    "currency": "RUB",
+    "priceRub": 110000.0,
+    "amountOfAdults": 1,
+    "countGuestsOnMainAccmd": 1,
+    "countGuestsOnExtraAccmd": 0,
+    "countGuestsOnWithoutBed": 0
+   }
+  ]
+ ]
+}
